@@ -1,0 +1,19 @@
+--- 
+Name: "House of RARE ", 
+Website: "https://www.houseofrare.io/", 
+Twitter: "https://twitter.com/houseof_rare", 
+Tags: "Games, NFTs", 
+--- 
+<!--lang:en--> 
+An NFT Collection like no other...
+<!--lang:es--] 
+Una colección NFT como ninguna otra...
+<!--lang:de--] 
+Eine NFT-Sammlung wie keine andere ...
+<!--lang:fr--] 
+Une collection NFT pas comme les autres...
+<!--lang:pl--] 
+Kolekcja NFT jak żadna inna...
+<!--lang:uk--] 
+Колекція NFT, як ніхто інший...
+[!--lang:*--> 
