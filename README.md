@@ -1,5 +1,7 @@
 # Public repository for Casper ecosystem containing information about projects, services, service providers, and code repositories.
 
+The https://casperblockchain.io site uses the stored data in this repository to visualize the Casper ecosystem.
+
 ## Casper Ecosystem
 
 All entries reside in the `casperblockchain-data/ecosystem` subdirectory. 
