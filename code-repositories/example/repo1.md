@@ -1,8 +1,10 @@
 --- 
 Name: "Example", 
+URL: "https://github.com/casper-ecosystem/casperblockchain-data",
 Tags: "SDK, DEVXDAO", 
 --- 
 <!- autopopulated tags, do not change manually>
+Description: "from github",
 Language: "JavaScript",
 License: "Apache-2.0",
 Forks: 21,
