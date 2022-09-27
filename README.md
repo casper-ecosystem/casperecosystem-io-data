@@ -8,14 +8,15 @@ All entries reside in the `casperblockchain-data/ecosystem` subdirectory.
 
 When adding a new entry, we create a unique directory name and add `data.md` file inside.
 
-### `data.md` file contents
+### `project.md` file contents
 
 ```
 --- 
 Name: "Project name", 
 Website: "https://projectsite.com/", 
 Twitter: "https://twitter.com/projecttwitter", 
-Tags: "Category 1, Category2", 
+Tags: "Category 1, Category2",
+Contact: "hello@project.name"
 --- 
 <!--lang:en--> 
 Project descritpion
