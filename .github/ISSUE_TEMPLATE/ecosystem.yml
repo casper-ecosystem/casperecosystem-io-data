@@ -1,0 +1,74 @@
+name: Ecosystem project
+description: Use it to submit new Casper ecosystem project request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before opening a new project request, please search in the existing issues and projects. The fastes way to add the project to our database is to create a PR.
+        
+        ---
+        
+        Thank you for taking the time to file a project request. To address this submission as fast as possible, we need some information.
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+      description: "Human readable project name."
+      placeholder: "Example Project"
+    validations:
+      required: true  
+  - type: textarea
+    id: description
+    attributes:
+      label: Project description
+      description: "Please provide the description of the project in a couple of sentences."
+      placeholder: "Example Project description."
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website url
+      description: "Please provide the full url adddress of the project website."
+      placeholder: "https://example.project"
+    validations:
+      required: false
+  - type: input
+    id: twitter
+    attributes:
+      label: Twitter url
+      description: "Please provide the full url adddress of the project twitter profile."
+      placeholder: "https:/twitter.com/project"
+    validations:
+      required: false
+ - type: dropdown
+    id: tags
+    attributes:
+      label: Project category, tags
+      description: Please categorize the project
+      options:
+        - NFTs
+        - Games
+        - Exchanges
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Contact e-mail address
+      description: "Please provide the contact email address following the example."
+      placeholder: "contact(at)example.project"
+    validations:
+      required: false
+  - type: textarea
+    id: contract-casper
+    attributes:
+      label: Casper network smart contracts
+      description: Please provide the contract hashes of your smart contract deployed to casper network (Mainnet) separated by comas.
+      placeholder: "86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af74,86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af74"
+  - type: textarea
+    id: contract-casper-test
+    attributes:
+      label: Casper-test network smart contracts
+      description: Please provide the contract hashes of your smart contract deployed to casper-test network (Testnet) separated by comas.
+      placeholder: "86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af74,86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af74"
