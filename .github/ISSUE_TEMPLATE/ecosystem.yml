@@ -41,7 +41,7 @@ body:
       placeholder: "https:/twitter.com/project"
     validations:
       required: false
- - type: dropdown
+  - type: dropdown
     id: tags
     attributes:
       label: Project category, tags
