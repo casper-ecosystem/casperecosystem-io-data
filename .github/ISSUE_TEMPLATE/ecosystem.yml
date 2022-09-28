@@ -4,7 +4,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before opening a new project request, please search in the existing issues and projects. The fastes way to add the project to our database is to create a PR.
+        Before opening a new project request, please search in the existing issues and projects. *The fastest way to add the project to our database is to create a PR.*
         
         ---
         
