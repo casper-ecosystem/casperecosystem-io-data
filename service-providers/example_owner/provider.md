@@ -8,7 +8,7 @@ sub-segment: "Collectible Project",
 category: "Gamified NFTs",
 tags: "Games, NFTs",
 contact: "hello(at)example.name",
-projects: {example,example1},
+projects: example,example1,
 --- 
 <!--lang:en--> 
 Example owner are the first 100 NFT collectibles on the Casper Blockchain.
