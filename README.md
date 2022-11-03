@@ -28,3 +28,5 @@ Additionally, we can add the logotype for the project into the `assets` subdirec
 
 ## Contribution guide
 We only accept contributions to the casperblockchain.io through GitHub. Contribute to the next release by submitting PRs (Pull Requests) to the main branch.
+
+
