@@ -134,6 +134,8 @@ body:
         - Smart Financial Tokens
         - Asset-bracket
         - Physical/Digital/Virtual
+      input: select
+      multiple: yes  
     validations:
       required: false
   - type: input
@@ -141,6 +143,7 @@ body:
     attributes:
       label: Contact details
       description: Please provide your email address
+      placeholder: contact(at)example.project
     validations:
       required: false
   - type: textarea
