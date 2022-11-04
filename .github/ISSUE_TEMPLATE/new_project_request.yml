@@ -116,7 +116,7 @@ body:
   - type: dropdown
     id: application-category
     attributes:
-      label: Application Cateogry
+      label: Application Category
       description: Please select the applicable secondary categories. This is an Optional input.
       multiple: true
       options: 
