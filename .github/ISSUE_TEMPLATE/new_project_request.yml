@@ -118,6 +118,7 @@ body:
     attributes:
       label: Application Cateogry
       description: Please select the applicable secondary categories. This is an Optional input.
+      multiple: true
       options: 
         - PFP and Avatars
         - Artwork
