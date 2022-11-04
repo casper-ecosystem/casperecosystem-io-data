@@ -1,5 +1,5 @@
 name: New Project Request
-description: Create a new project entry request to add your project in Casper Ecosystem
+description: Create a new project entry request to add your project in Casper Ecosystem.
 title: "[Add Project]: Name of Your Project"
 labels: ["Project"]
 assignees:
@@ -10,20 +10,28 @@ body:
     id: project
     attributes:
       label: Project name
-      placeholder: My Super Shiny Project
+      description: Human Readable Project Name
+      placeholder: Supercars NFT
     validations:
       required: true
+  - type: textarea
+    id: project-description
+    attributes:
+      label: Project Description
+      description: Please provide the description of the project in a couple of sentences.
+      placeholder: Example Project description
   - type: input
     id: website
     attributes:
       label: Project URL/Website
+      description: Please provide the full url adddress of the project website.
       placeholder: "www.example.com*"
     validations:
       required: true
   - type: dropdown
     id: architecture
     attributes:
-      label: Project's Architecture Layer
+      label: Architecture Layer
       description: Select project's architecture layer type
       options:
         - User & Access Layer
@@ -37,7 +45,7 @@ body:
   - type: dropdown
     id: segment
     attributes:
-      label: Select project's segment type
+      label: Segment
       options:
         - NFT
         - Gaming
@@ -64,9 +72,10 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: sub-segment
+    id: category
     attributes:
-      label: Project's sub-segment category
+      label: Category
+      description: Please select Project Category from the dropdown. Please note that this is a Primary Category and an important mandatory input 
       options:
         - Marketplace
         - Launchpad
@@ -105,10 +114,10 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: category
+    id: application-category
     attributes:
-      label: Project's category
-      description: Select project's category
+      label: Application Cateogry
+      description: Please select the applicable secondary categories. This is an Optional input.
       options: 
         - PFP and Avatars
         - Artwork
@@ -126,25 +135,27 @@ body:
         - Asset-bracket
         - Physical/Digital/Virtual
     validations:
-      required: true
+      required: false
   - type: input
     id: contact
     attributes:
       label: Contact details
-      description: (Please provide your email address)
+      description: Please provide your email address
     validations:
-      required: true
-  - type: input
+      required: false
+  - type: textarea
     id: contract-hashes-casper
     attributes:
       label: Project's Contract Hashes on Casper Mainnet
-      placeholder: "86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af74"
+      description: Please provide the contract hashes of your smart contract deployed to casper network (Mainnet) separated by comas.
+      placeholder: "86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af74, 86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af74"
     validations:
-      required: true
-  - type: input
+      required: false
+  - type: textarea
     id: contract-hashes-casper-test
     attributes:
       label: Project's Contract Hashes on Casper Testnet
-      placeholder: "e375d42c29c0e4b2baefa63cf2d70af34439eda851e08129d8515515d63bd6a9"
+      description: Please provide the contract hashes of your smart contract deployed to casper network (Testnet) separated by comas.
+      placeholder: "e375d42c29c0e4b2baefa63cf2d70af34439eda851e08129d8515515d63bd6a9, 86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af75"
     validations:
-      required: true 
+      required: false 
