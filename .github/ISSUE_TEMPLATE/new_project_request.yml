@@ -134,8 +134,6 @@ body:
         - Smart Financial Tokens
         - Asset-bracket
         - Physical/Digital/Virtual
-      input: select
-      multiple: yes  
     validations:
       required: false
   - type: input
