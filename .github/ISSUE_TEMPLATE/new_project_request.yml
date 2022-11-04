@@ -1,0 +1,150 @@
+name: New Project Request
+description: Create a new project entry request to add your project in Casper Ecosystem
+title: "[Add Project]: Name of Your Project"
+labels: ["Project"]
+assignees:
+  - devendran-m
+  - piotr-dziubecki
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project name
+      placeholder: My Super Shiny Project
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Project URL/Website
+      placeholder: "www.example.com*"
+    validations:
+      required: true
+  - type: dropdown
+    id: architecture
+    attributes:
+      label: Project's Architecture Layer
+      description: Select project's architecture layer type
+      options:
+        - User & Access Layer
+        - Launchpad
+        - Infrastructure
+        - L1 Operators
+        - L2 Education
+        - Partners
+    validations:
+      required: true
+  - type: dropdown
+    id: segment
+    attributes:
+      label: Select project's segment type
+      options:
+        - NFT
+        - Gaming
+        - DeFi
+        - Other dApps
+        - DAO
+        - SDK
+        - Bridges
+        - Indexers
+        - Smart Contracts
+        - Oracles
+        - Scalability
+        - Other
+        - Exchanges
+        - Validator
+        - Node-as-a-service
+        - Contributors
+        - Learn & Earn
+        - Casper Web3 Onboarder
+        - Software House
+        - Creative Agency
+        - Marketing Agency
+        - Consultancy
+    validations:
+      required: true
+  - type: dropdown
+    id: sub-segment
+    attributes:
+      label: Project's sub-segment category
+      options:
+        - Marketplace
+        - Launchpad
+        - Collectible Project
+        - Real World Solution(CSPR)
+        - Web 2.5
+        - GameFi
+        - Game with NFT
+        - Play & Earn
+        - Platforms
+        - AR/VR/Metaverse
+        - Wallet
+        - Explorer
+        - Custodial Platforms
+        - DEX
+        - AMM
+        - Token Launcpad
+        - Liquidity Platforms
+        - Price Oracles
+        - Swap Platforms
+        - Yield Farming
+        - Fian On/Off Ramps (outside CEXs)
+        - Multi-chain Bridges(Wormhole)
+        - Identity Platform
+        - Margin Trading
+        - Decentralized Insurance Platform
+        - Prediction Markets
+        - Derivative Marketplace
+        - DAO & Voting Platform
+        - Micro-Payments Processor
+        - Stablecoins
+        - Lending/Borrowing
+        - Self Custody Wallets (Browser & Mobile)
+        - Payment Integration
+        - Social Media 
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Project's category
+      description: Select project's category
+      options: 
+        - PFP and Avatars
+        - Artwork
+        - Generative Art/AI
+        - Photography NFTs
+        - Music NFTs
+        - Gamified NFTs
+        - Access NFTs
+        - Event Ticketing NFTs
+        - Real Estate
+        - Inheritances
+        - Identify
+        - Certificates
+        - Smart Financial Tokens
+        - Asset-bracket
+        - Physical/Digital/Virtual
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact details
+      description: (Please provide your email address)
+    validations:
+      required: true
+  - type: input
+    id: contract-hashes-casper
+    attributes:
+      label: Project's Contract Hashes on Casper Mainnet
+      placeholder: "86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af74"
+    validations:
+      required: true
+  - type: input
+    id: contract-hashes-casper-test
+    attributes:
+      label: Project's Contract Hashes on Casper Testnet
+      placeholder: "e375d42c29c0e4b2baefa63cf2d70af34439eda851e08129d8515515d63bd6a9"
+    validations:
+      required: true 
