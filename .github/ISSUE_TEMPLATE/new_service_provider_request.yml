@@ -1,0 +1,134 @@
+name: New Service Provider Request
+description: Create a new request to add new Service Provider in Casper Ecosystem.
+title: "[Add Service Provider]: New Service Provider Request"
+labels: ["Service-Provider"]
+assignees:
+  - devendran-m
+  - piotr-dziubecki
+body:
+  - type: input
+    id: service-provider
+    attributes:
+      label: Service Provider Name
+      description: Name of the Service Provider Organisation
+      placeholder: Example Inc
+    validations:
+      required: true
+  - type: textarea
+    id: serviceoffer
+    attributes:
+      label: Service Provider Overview
+      description: Provide an overview and the service(s) offered
+      placeholder: We provide custom software development (web/mobile) and outsourced engineering needs. We have helped similar companies like yours with their software/data engineering staff augmentation. Our team of 250+ developers specializes in a number of areas including Python, Java, Php, .Net, NodeJS, React, React Native, Vue, Machine Learning and Data Engineering.
+    validations:
+      required: true
+  - type: 
+    id: website
+    attributes:
+      label: Website
+      description: Service Provider Org's Website
+      placeholder: www.example.org
+    validations:
+      required: true
+  - type: dropdown
+    id: orgsize
+    attributes:
+      label: Organization's Size
+      description: Choose the Organization's Size from the dropdown
+      options:
+        - 1 to 10
+        - 11 to 50
+        - 51 to 100
+        - 101 to 500
+        - 500+
+      validations:
+        required: true
+  - type: dropdown
+    id: offerings
+    attributes:
+      label: Organization's Service Offerings
+      description: Select the type of services that the Organisation offers
+      multiple: true
+      options:
+        - Software Development (Web/Mobile)
+        - Staff Augumentation
+        - Managed Support Services (SRE/DevOps)
+        - Managed Cloud / Infrastructure Services
+        - Baremetal Service Provider
+      validations:
+        required: true  
+  - type: dropdown
+    id: specialization
+    attributes:
+      label: Organization's Specilizations
+      description: Select the specilizations/skillsets that the developers/teams of the Org possess. Select all that are applicable.
+      multiple: true
+      options:
+        - JavaScript
+        - Python
+        - Rust
+        - Frontend  - JS, React
+        - Frontend  - JS, Angular
+        - Frontend  - JS, Vue
+        - Fullstack - MERN
+        - Fullstack - MEAN
+        - Mobile  - Flutter
+        - Mobile  - React Native
+        - PHP
+        - .Net
+        - Java
+        - Smart Contract Development
+        - dApp Development
+        - Marketplace Development (NFT/Blockchain)
+        - Smart Contract Audit/Security
+        - Marketing & Communications
+        - Training & Education
+        - Research & Development
+      validations:
+        required: true
+  - type: textarea
+    id: projects
+    attributes:
+      label: Projects 
+      description: Please provide the details of the projects executed/delivered so far on Casper Blockchain
+      placeholder: My Super Shiny NFT, SuperdApp, MySuperWallet
+    validations:
+      required: true  
+  - type: textarea
+    id: poc
+    attributes:
+      label: Point of Contact
+      description: Organization's Primary/Single Point of Contact for this request. Please include their title.
+      placeholder: John Doe, Manager Customer Success
+      validations:
+        required: true
+  - type: textarea
+    id: address
+    attributes:
+      label: Address
+      description: Official/Registered Address of the Organisation. Please include City, State, Pincode/Zipcode
+      placeholder: 1144, 6th Avenue, New York, NY or 12, Claude Place, Halifax, HX1 2HY
+      validations:
+        required: true
+  - type: input
+    id: twitter
+    attributes:
+      label: Twitter Handle
+      description: Official Twitter Handle
+      placeholder: "@IamAServiceProvider"
+      validations:
+        required: false
+  - type: input
+    id: discord
+    attributes:
+      label: Discord
+      description: Official Discord
+      validations:
+        required: false
+  - type: input
+    id: telegram
+    attributes:
+      label: Telegram
+      description: Official Telegram Handle
+      validations:
+        required: false
