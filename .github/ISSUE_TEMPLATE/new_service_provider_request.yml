@@ -22,7 +22,7 @@ body:
       placeholder: We provide custom software development (web/mobile) and outsourced engineering needs. We have helped similar companies like yours with their software/data engineering staff augmentation. Our team of 250+ developers specializes in a number of areas including Python, Java, Php, .Net, NodeJS, React, React Native, Vue, Machine Learning and Data Engineering.
     validations:
       required: true
-  - type: 
+  - type: input
     id: website
     attributes:
       label: Website
