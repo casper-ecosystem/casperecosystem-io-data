@@ -1,7 +1,7 @@
 name: New Service Provider Request
 description: Create a new request to add new Service Provider in Casper Ecosystem.
 title: "[Add Service Provider]: New Service Provider Request"
-labels: ["Service-Provider"]
+labels: ["service-provider"]
 assignees:
   - devendran-m
   - piotr-dziubecki
