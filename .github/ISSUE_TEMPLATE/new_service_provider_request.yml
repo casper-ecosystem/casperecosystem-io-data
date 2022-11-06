@@ -1,13 +1,13 @@
 name: New Service Provider Request
-description: Create a new request to add new Service Provider in Casper Ecosystem.
-title: "[Add Service Provider]: New Service Provider Request"
+description: Create a new request to add new Service Provider in Casper Ecosystem
+title: "[Add Service Provider]: "
 labels: ["service-provider"]
 assignees:
   - devendran-m
   - piotr-dziubecki
 body:
   - type: input
-    id: service-provider
+    id: serviceprovider
     attributes:
       label: Service Provider Name
       description: Name of the Service Provider Organisation
