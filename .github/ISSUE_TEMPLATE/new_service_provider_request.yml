@@ -1,5 +1,5 @@
 name: New Service Provider Request
-description: Create a new request to add new Service Provider in Casper Ecosystem
+description: Create a request to add new Service Provider in Casper Ecosystem.
 title: "[Add Service Provider]: "
 labels: ["service-provider"]
 assignees:
@@ -41,8 +41,8 @@ body:
         - 51 to 100
         - 101 to 500
         - 500+
-      validations:
-        required: true
+    validations:
+      required: true
   - type: dropdown
     id: offerings
     attributes:
@@ -55,8 +55,8 @@ body:
         - Managed Support Services (SRE/DevOps)
         - Managed Cloud / Infrastructure Services
         - Baremetal Service Provider
-      validations:
-        required: true  
+    validations:
+      required: true  
   - type: dropdown
     id: specialization
     attributes:
@@ -84,8 +84,8 @@ body:
         - Marketing & Communications
         - Training & Education
         - Research & Development
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: projects
     attributes:
@@ -100,35 +100,35 @@ body:
       label: Point of Contact
       description: Organization's Primary/Single Point of Contact for this request. Please include their title.
       placeholder: John Doe, Manager Customer Success
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: address
     attributes:
       label: Address
       description: Official/Registered Address of the Organisation. Please include City, State, Pincode/Zipcode
       placeholder: 1144, 6th Avenue, New York, NY or 12, Claude Place, Halifax, HX1 2HY
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: twitter
     attributes:
       label: Twitter Handle
       description: Official Twitter Handle
       placeholder: "@IamAServiceProvider"
-      validations:
-        required: false
+    validations:
+      required: false
   - type: input
     id: discord
     attributes:
       label: Discord
       description: Official Discord
-      validations:
-        required: false
+    validations:
+      required: false
   - type: input
     id: telegram
     attributes:
       label: Telegram
       description: Official Telegram Handle
-      validations:
-        required: false
+    validations:
+      required: false
