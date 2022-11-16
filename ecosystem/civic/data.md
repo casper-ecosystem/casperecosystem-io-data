@@ -2,7 +2,15 @@
 Name: "Civic", 
 Website: "https://www.civic.com/", 
 Twitter: "https://twitter.com/civickey", 
-Tags: "Tooling, Explorers, Oracles", 
+Architecture: "Infrastructure",
+Segment: "Oracles",
+Category: "",
+Application-Category: "",
+Tags: "Oracles",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 An integrated permissioning tool that helps businesses control access to their dApps.

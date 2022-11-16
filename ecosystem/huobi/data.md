@@ -2,7 +2,15 @@
 Name: "Huobi", 
 Website: "https://www.huobi.com/", 
 Twitter: "https://twitter.com/HuobiGlobal", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Huobi.com is the world-leading crypto trading platform, providing secure and convenient trading services for hundreds of digital assets.

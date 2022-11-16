@@ -2,7 +2,15 @@
 Name: "MinorityProgrammers", 
 Website: "https://www.minorityprogrammers.com/", 
 Twitter: "https://twitter.com/minorityprogram", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "P-Other",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Join the international network of developers unifying together to build socially impactful projects & spread STEM education to marginalized communities

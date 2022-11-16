@@ -2,7 +2,15 @@
 Name: "Cosimo Ventures", 
 Website: "https://cosimox.com/", 
 Twitter: "https://twitter.com/COSIMOventures", 
-Tags: "Partners", 
+Architecture: "L1 Operators",
+Segment: "Validators",
+Category: "",
+Application-Category: "",
+Tags: "Validators",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 COSIMO VENTURES IS A PIONEERING, DEEP TECH INVESTMENT FIRM THAT HELPS TRANSFORM PROMISING DISRUPTIVE COMPANIES INTO GLOBAL INDUSTRY LEADERS.

@@ -2,7 +2,15 @@
 Name: "Kunft Marketplace", 
 Website: "https://kunftmarketplace.io/", 
 Twitter: "https://twitter.com/KunftMarket", 
-Tags: "Games, NFTs", 
+Architecture: "User & Access Layer",
+Segment: "NFT",
+Category: "Marketplace",
+Application-Category: "",
+Tags: "NFT",
+Contact: "",
+Project-Status: "Not Live - In Development",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Kunst (Art) & Zukunft (The future). Join our NFT Marketplace & take part in the revolution, we are your blank canvas!

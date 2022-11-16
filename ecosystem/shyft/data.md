@@ -2,7 +2,15 @@
 Name: "Shyft", 
 Website: "https://www.shyft.network/", 
 Twitter: "https://twitter.com/shyftnetwork", 
-Tags: "Tooling, Explorers, Oracles", 
+Architecture: "Infrastructure",
+Segment: "Oracles",
+Category: "",
+Application-Category: "",
+Tags: "Oracles",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 The Shyft Network is a public protocol designed to validate identity and power compliance directly into blockchain data. 

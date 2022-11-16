@@ -2,7 +2,15 @@
 Name: "Forest Staking", 
 Website: "https://foreststaking.com/", 
 Twitter: "https://twitter.com/foreststaking", 
-Tags: "Validators, Staking Pools", 
+Architecture: "L1 Operators",
+Segment: "Validators",
+Category: "",
+Application-Category: "",
+Tags: "Validators",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Mining / minting / staking pool

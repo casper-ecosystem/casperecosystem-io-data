@@ -2,7 +2,15 @@
 Name: "HOO", 
 Website: "https://hoo.com/", 
 Twitter: "https://twitter.com/Hoo_exchange", 
-Tags: "Wallets, Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Safe - Stable - Fast. The world's leading blockchain asset servicing platform

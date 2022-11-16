@@ -2,7 +2,15 @@
 Name: "CSPDAO", 
 Website: "https://cspdao.network/", 
 Twitter: "https://twitter.com/csp_dao", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "P-Other",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 CSP is a DAO that focuses on investment opportunities that will spark the internet's next paradigm shift.

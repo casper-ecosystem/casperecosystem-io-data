@@ -2,7 +2,15 @@
 Name: "CasperSign", 
 Website: "https://app.caspersign.io/", 
 Twitter: "https://twitter.com/intent/tweet?url=https://app.caspersign.io", 
-Tags: "Building on Casper", 
+Architecture: "Infrastructure",
+Segment: "I - Other",
+Category: "",
+Application-Category: "",
+Tags: "DApps",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Immutable Document Signatures on the Blockchain

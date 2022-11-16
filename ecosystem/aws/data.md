@@ -2,7 +2,15 @@
 Name: "AWS", 
 Website: "https://aws.amazon.com/", 
 Twitter: "https://twitter.com/awscloud", 
-Tags: "Partners", 
+Architecture: "Infrastructure",
+Segment: "Scalability",
+Category: "",
+Application-Category: "",
+Tags: "DApps",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Build, Deploy, and Manage Websites, Apps or Processes On AWS' Secure, Reliable Network.

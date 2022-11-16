@@ -2,7 +2,15 @@
 Name: "CasperPad", 
 Website: "https://casper-pad.io/", 
 Twitter: "https://twitter.com/Casper_Pad", 
-Tags: "DeFi, CeFi", 
+Architecture: "Infrastructure",
+Segment: "Launchpad",
+Category: "",
+Application-Category: "",
+Tags: "Launchpad",
+Contact: "",
+Project-Status: "Live - Not Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 CasperPad is the first Casper-supported decentralized Launchpad built to launch next level projects on the Casper Network

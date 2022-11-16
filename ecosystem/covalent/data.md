@@ -2,7 +2,15 @@
 Name: "Covalent", 
 Website: "https://www.covalenthq.com/", 
 Twitter: "https://twitter.com/covalent_hq", 
-Tags: "Tooling, Explorers, Oracles", 
+Architecture: "Infrastructure",
+Segment: "I - Other",
+Category: "",
+Application-Category: "",
+Tags: "DApps",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Covalent provides a unified API bringing visibility to billions of Web3 data points.

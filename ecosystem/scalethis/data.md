@@ -2,7 +2,15 @@
 Name: "ScaleThis", 
 Website: "https://scalethis.com/", 
 Twitter: "", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Consultancy",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 We help big companies work like startups to grow faster.

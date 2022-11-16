@@ -2,7 +2,15 @@
 Name: "CVVC", 
 Website: "https://www.cvvc.com/", 
 Twitter: "https://twitter.com/CV_Labs/", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "P-Other",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Investing in blockchain is investing in the future. Not only are we a part of this evolution and technological marvel, but we are enablers and accelerators across multiple industries in the blockchain space.

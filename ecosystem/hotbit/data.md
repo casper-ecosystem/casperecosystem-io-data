@@ -2,7 +2,15 @@
 Name: "HotBit", 
 Website: "https://www.hotbit.io/", 
 Twitter: "https://twitter.com/Hotbit_news", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Known as the cryptocurrency trading platform that lists the world's greatest number of cryptocurrency projects.

@@ -2,7 +2,15 @@
 Name: "SJM", 
 Website: "https://sjmgroup.ae/", 
 Twitter: "", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Consultancy",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 SJM Group is based in Dubai – United Arab Emirates. With a track record of over 15 years, it has evolved into a multi-disciplined corporation with a diverse portfolio of activities.

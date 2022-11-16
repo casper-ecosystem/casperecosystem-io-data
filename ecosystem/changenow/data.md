@@ -2,7 +2,15 @@
 Name: "ChangeNow", 
 Website: "https://changenow.io/", 
 Twitter: "https://twitter.com/ChangeNOW_io", 
-Tags: "DeFi, CeFi", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "fiat on/off ramps ( outside CEXs )",
+Application-Category: "",
+Tags: "DeFi",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Limitless non-custodial crypto swap service.

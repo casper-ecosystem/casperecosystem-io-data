@@ -2,7 +2,15 @@
 Name: "PureFI", 
 Website: "https://purefi.io/", 
 Twitter: "https://twitter.com/Purefi_Protocol", 
-Tags: "Building on Casper", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "Payment Integration",
+Application-Category: "",
+Tags: "DeFi",
+Contact: "",
+Project-Status: "Not Live - In Development",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 The only gateway foronboarding institutional money to DeFi.

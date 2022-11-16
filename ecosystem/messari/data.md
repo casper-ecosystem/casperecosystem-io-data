@@ -2,7 +2,15 @@
 Name: "Messari", 
 Website: "https://messari.io/", 
 Twitter: "https://mobile.twitter.com/messaricrypto", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Consultancy",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Gain an edge over the crypto market with professional grade data, tools, and research.

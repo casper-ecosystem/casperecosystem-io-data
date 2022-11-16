@@ -2,7 +2,15 @@
 Name: "Gate.io", 
 Website: "https://www.gate.io/", 
 Twitter: "https://twitter.com/gate_io", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Gate.io is one of the global top 10 cryptocurrency exchanges with authentic trading volume. We provide safe and transparent transactions.
