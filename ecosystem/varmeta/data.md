@@ -1,6 +1,6 @@
 ---
 Name: "VarMeta",
-Website: "No website/Website not working",
+Website: "",
 Twitter: "",
 Architecture: "Partners",
 Segment: "Software House",

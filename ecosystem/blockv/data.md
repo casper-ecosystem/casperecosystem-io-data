@@ -13,15 +13,15 @@ Contract-Hashes-Main: "",
 Contract-Hashes-Test: "",
 ---
 <!--lang:en--> 
-TEAM OF DEVELOPERS, NFT WIZARDS, PROJECT MANAGERS, DESIGNERS, MARKETING EXPERTS, COMMUNITY MANAGERS
+Team of Developers, NFT Wizards, Project Managers, Designers, Marketing Experts and Community Managers
 <!--lang:es--] 
-EQUIPO DE DESARROLLADORES, NFT WIZARDS, GERENTES DE PROYECTO, DISEÑADORES, EXPERTOS EN MARKETING, COMMUNITY MANAGER
+Equipo de desarrolladores, asistentes de NFT, gerentes de proyectos, diseñadores, expertos en marketing y gerentes de comunidades
 <!--lang:de--] 
-TEAM AUS ENTWICKLERN, NFT-WIZARDS, PROJEKTMANAGERN, DESIGNERN, MARKETING-EXPERTEN, COMMUNITY-MANAGERN
+Team aus Entwicklern, NFT-Assistenten, Projektmanagern, Designern, Marketingexperten und Community-Managern
 <!--lang:fr--] 
-ÉQUIPE DE DÉVELOPPEURS, NFT WIZARDS, GESTIONNAIRES DE PROJET, DESIGNERS, EXPERTS MARKETING, COMMUNITY MANAGERS
+Equipe de Développeurs, Assistants NFT, Chefs de Projet, Designers, Experts Marketing et Community Managers
 <!--lang:pl--] 
-ZESPÓŁ DEWELOPERÓW, WIZARDÓW NFT, KIEROWNIKÓW PROJEKTÓW, PROJEKTANTÓW, EKSPERTÓW MARKETINGU, MANAGERÓW SPOŁECZNOŚCI
+Zespół programistów, kreatorów NFT, kierowników projektów, projektantów, ekspertów ds. marketingu i menedżerów społeczności
 <!--lang:uk--] 
-КОМАНДА РОЗРОБНИКІВ, МАСІВНИКІВ NFT, ПРОЕКТНИХ МЕНЕДЖЕРІВ, ДИЗАЙНЕРОВ, МАРКЕТИНГІВ, КОМЮНІТІ-МЕНЕДЖЕРІВ
+Команда розробників, майстрів NFT, менеджерів проектів, дизайнерів, експертів з маркетингу та менеджерів спільноти
 [!--lang:*-->  

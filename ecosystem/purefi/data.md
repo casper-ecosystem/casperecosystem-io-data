@@ -13,15 +13,15 @@ Contract-Hashes-Main: "",
 Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
-The only gateway foronboarding institutional money to DeFi.
+The only gateway for onboarding institutional money to DeFi.
 <!--lang:es--] 
-La única puerta de entrada para incorporar dinero institucional a DeFi.
+La única puerta de enlace para incorporar dinero institucional a DeFi.
 <!--lang:de--] 
-Das einzige Tor, um institutionelles Geld in DeFi einzubinden.
+Das einzige Gateway für das Onboarding von institutionellem Geld zu DeFi.
 <!--lang:fr--] 
 La seule passerelle pour intégrer de l'argent institutionnel à DeFi.
 <!--lang:pl--] 
-Jedyna brama umożliwiająca wprowadzanie środków instytucjonalnych do DeFi.
+Jedyna brama do wprowadzania pieniędzy instytucjonalnych do DeFi.
 <!--lang:uk--] 
-Єдиний шлюз для передачі інституційних грошей у DeFi.
+Єдиний шлюз для введення інституційних грошей у DeFi.
 [!--lang:*--> 

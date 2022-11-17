@@ -13,15 +13,15 @@ Contract-Hashes-Main: "",
 Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
-COSIMO VENTURES IS A PIONEERING, DEEP TECH INVESTMENT FIRM THAT HELPS TRANSFORM PROMISING DISRUPTIVE COMPANIES INTO GLOBAL INDUSTRY LEADERS.
+Cosimo Ventures is a pioneering, deep tech investment firm that helps transform promising disruptive companies into global industry leaders.
 <!--lang:es--] 
-COSIMO VENTURES ES UNA EMPRESA DE INVERSIÓN EN TECNOLOGÍA PROFUNDA Y PIONERA QUE AYUDA A TRANSFORMAR EMPRESAS DISRUPTIVAS PROMETEDORAS EN LÍDERES GLOBALES DE LA INDUSTRIA.
+Cosimo Ventures es una firma pionera de inversión en tecnología profunda que ayuda a transformar empresas disruptivas prometedoras en líderes mundiales de la industria.
 <!--lang:de--] 
-COSIMO VENTURES IST EINE WEGWEISENDE DEEP-TECH-INVESTMENTFIRMA, DIE HILFT, VIELVERSPRECHENDE DISRUPTIVE UNTERNEHMEN IN GLOBALE BRANCHENFÜHRER ZU UMWANDELN.
+Cosimo Ventures to pionierska firma inwestycyjna zajmująca się głębokimi technologiami, która pomaga przekształcać obiecujące przełomowe firmy w światowych liderów branży.
 <!--lang:fr--] 
-COSIMO VENTURES EST UNE ENTREPRISE D'INVESTISSEMENT PIONNIÈRE DANS LES TECHNOLOGIES PROFONDES QUI AIDE À TRANSFORMER DES ENTREPRISES DE RUPTURE PROMETTEUSES EN CHEF DE FILE MONDIAL DE L'INDUSTRIE.
+Cosimo Ventures est une société d'investissement pionnière dans les technologies profondes qui aide à transformer des entreprises perturbatrices prometteuses en leaders mondiaux de l'industrie.
 <!--lang:pl--] 
-COSIMO VENTURES TO PIONIERSKA FIRMA INWESTYCYJNA W DEEP TECH, KTÓRA POMAGA PRZEKSZTAŁCIĆ OBIECUJĄCE PRZEŁOMOWE FIRMY W ŚWIATOWYCH LIDERÓW BRANŻY.
+Cosimo Ventures to pionierska firma inwestycyjna zajmująca się głębokimi technologiami, która pomaga przekształcać obiecujące przełomowe firmy w światowych liderów branży.
 <!--lang:uk--] 
-COSIMO VENTURES — ІНВЕСТИЦІЙНА ФІРМА-ПІОНЕР, ГЛИБОКОТЕХНІЧНА ІНВЕСТИЦІЙНА ФІРМА, ЩО ДОПОМАГАЄ ПЕРЕТВОРЮВАТИ ПЕРСПЕКТИВНІ РУХОВІ КОМПАНІЇ НА ГЛОБАЛЬНИХ ЛІДЕРІВ ГАЛУЗІ.
+Cosimo Ventures — новаторська інвестиційна компанія, що займається глибокими технологіями, яка допомагає перетворювати багатообіцяючі революційні компанії на світових лідерів галузі.
 [!--lang:*--> 

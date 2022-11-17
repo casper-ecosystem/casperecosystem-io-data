@@ -1,6 +1,6 @@
 ---
 Name: "Unity-js-SDK",
-Website: "More info required from Ecosystem team",
+Website: "",
 Twitter: "",
 Architecture: "Infrastructure",
 Segment: "SDK",

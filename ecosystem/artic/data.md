@@ -1,6 +1,6 @@
 ---
 Name: "Artic",
-Website: "Couldn't find the website details. Need clarity from Ecosystem team.",
+Website: "",
 Twitter: "",
 Architecture: "User & Access Layer",
 Segment: "DeFi",

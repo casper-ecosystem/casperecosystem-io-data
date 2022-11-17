@@ -1,6 +1,6 @@
 ---
 Name: "Blockbox",
-Website: "Couldn't find the website details. Need clarity from Ecosystem team.",
+Website: "",
 Twitter: "",
 Architecture: "L1 Operators",
 Segment: "Validators",
