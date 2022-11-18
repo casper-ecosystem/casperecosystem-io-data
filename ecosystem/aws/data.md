@@ -6,14 +6,14 @@ Architecture: "Infrastructure",
 Segment: "Scalability",
 Category: "",
 Application-Category: "",
-Tags: "DApps",
+Tags: "Infrastructure",
 Contact: "",
 Project-Status: "Live - Active",
 Contract-Hashes-Main: "",
 Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
-Build, Deploy, and Manage Websites, Apps or Processes On AWS' Secure, Reliable Network.
+Build, Deploy, and Manage Websites, Apps or Processes On AWS's Secure, Reliable Network.
 <!--lang:es--] 
 Cree, implemente y administre sitios web, aplicaciones o procesos en la red segura y confiable de AWS.
 <!--lang:de--] 
