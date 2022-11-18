@@ -2,7 +2,15 @@
 Name: "Sarson Funds", 
 Website: "https://www.sarsonfunds.com/", 
 Twitter: "https://twitter.com/sarsonfunds", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Consultancy",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 A digital asset investment ecosystem for financial advisors and investors, offering transparent products and cryptocurrency education.

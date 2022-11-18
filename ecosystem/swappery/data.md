@@ -2,7 +2,15 @@
 Name: "Swappery", 
 Website: "https://www.the-swappery.com/", 
 Twitter: "https://twitter.com/TheSwappery", 
-Tags: "DeFi, CeFi", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "DEX",
+Application-Category: "",
+Tags: "DeFi",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Swap, trade, and earn on the coolest decentralized swappery in town. The first and only cross-chain DEX on Casper Network and BSC!

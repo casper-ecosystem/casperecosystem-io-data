@@ -2,7 +2,15 @@
 Name: "DPPA", 
 Website: "https://dppalliance.com/", 
 Twitter: "https://twitter.com/Join_DPPA", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Software House",
+Category: "",
+Application-Category: "",
+Tags: "Software House",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Building a personal data economy on ownership and transparency.

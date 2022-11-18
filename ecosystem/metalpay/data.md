@@ -2,7 +2,15 @@
 Name: "MetalPay", 
 Website: "https://metalpay.com/", 
 Twitter: "https://twitter.com/metalpaysme", 
-Tags: "Wallets", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "Wallet ",
+Application-Category: "",
+Tags: "Wallets",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 The easiest way to buy, sell and trade crypto

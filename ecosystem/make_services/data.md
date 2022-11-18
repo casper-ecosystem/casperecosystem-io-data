@@ -2,7 +2,15 @@
 Name: "Make Services", 
 Website: "https://make.services/", 
 Twitter: "https://twitter.com/theRealMAKEllc", 
-Tags: "Tooling, Explorers, Oracles", 
+Architecture: "Partners",
+Segment: "Software House",
+Category: "",
+Application-Category: "",
+Tags: "Software House",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 MAKE is a dynamic, service oriented consultancy firm that is your one-stop-shop for your product development, technical and strategic business needs.

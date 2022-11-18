@@ -2,7 +2,15 @@
 Name: "Nucleus Finance", 
 Website: "https://www.nucleusfinance.com/", 
 Twitter: "https://twitter.com/Nucleus_Ltd", 
-Tags: "DeFi, CeFi", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "",
+Application-Category: "",
+Tags: "DeFi",
+Contact: "",
+Project-Status: "Not Live - In Development",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Leveraging Blockchain to revolutionize financial systems.

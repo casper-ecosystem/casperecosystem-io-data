@@ -2,7 +2,15 @@
 Name: "Ledger", 
 Website: "https://www.ledger.com/", 
 Twitter: "https://twitter.com/Ledger", 
-Tags: "Wallets", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "Wallet ",
+Application-Category: "",
+Tags: "Wallets",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Ledger's the smartest way to secure, buy, exchange and grow your crypto assets.

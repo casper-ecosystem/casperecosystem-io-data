@@ -2,7 +2,15 @@
 Name: "CasperArmy", 
 Website: "https://casperarmy.org", 
 Twitter: "https://twitter.com/casperarmyorg", 
-Tags: "Validators, Staking Pools, Games, NFTs, DAOs", 
+Architecture: "User & Access Layer",
+Segment: "NFT",
+Category: "Launchpad",
+Application-Category: "",
+Tags: "NFT",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 VentureCapital with DAO platform and incubation HUB with access via NFT 

@@ -2,7 +2,15 @@
 Name: "Parsiq", 
 Website: "https://www.parsiq.net/", 
 Twitter: "https://twitter.com/parsiq_net", 
-Tags: "Building on Casper", 
+Architecture: "Infrastructure",
+Segment: "Oracles",
+Category: "",
+Application-Category: "",
+Tags: "Oracles",
+Contact: "",
+Project-Status: "Not Live - In Development",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Instant Web3 Data. Real-Time & Historical Data Access Has Never Been So Easy

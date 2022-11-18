@@ -2,7 +2,15 @@
 Name: "Ariadne", 
 Website: "https://www.ariadne.swiss/", 
 Twitter: "", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Software House",
+Category: "",
+Application-Category: "",
+Tags: "Software House",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Disruptive banking technologies on solid ground. Fully integrated - from reinvented core banking solutions to risk management and analytical solutions.

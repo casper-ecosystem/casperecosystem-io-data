@@ -2,7 +2,15 @@
 Name: "Bixin", 
 Website: "https://www.bixin.com/en/", 
 Twitter: "https://twitter.com/BixinWallet", 
-Tags: "Wallets", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "Wallet ",
+Application-Category: "",
+Tags: "Wallets",
+Contact: "",
+Project-Status: "Not Live - In Development",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Integrate digital financial service and social platform to manage your crypto assets easily

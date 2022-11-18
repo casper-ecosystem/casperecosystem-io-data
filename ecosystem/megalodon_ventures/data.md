@@ -2,7 +2,15 @@
 Name: "Megalodon Ventures", 
 Website: "https://megalodon.capital/", 
 Twitter: "", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Consultancy",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Network and Knowledge. Megalodon is a financial consultancy firm. The firm is specialized in legal and fintech advisory focusing on digital securities.

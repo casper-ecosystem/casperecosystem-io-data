@@ -2,7 +2,15 @@
 Name: "Sequoir", 
 Website: "https://www.sequoir.com/", 
 Twitter: "https://twitter.com/sequoirx", 
-Tags: "DeFi, CeFi", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Sequoir is a financial technology firm providing blockchain trading and custody APIs to power banks, credit unions, fintech, and the Web 3.0.

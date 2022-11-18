@@ -2,7 +2,15 @@
 Name: "CasperPunks", 
 Website: "https://casperpunks.io/", 
 Twitter: "https://twitter.com/Casper_Network", 
-Tags: "Games, NFTs", 
+Architecture: "User & Access Layer",
+Segment: "NFT",
+Category: "Collectible Project",
+Application-Category: "Gamified NFTs",
+Tags: "NFT",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 CasperPunks are the first 100 NFT collectibles on the Casper Blockchain.

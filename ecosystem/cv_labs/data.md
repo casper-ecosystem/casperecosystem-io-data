@@ -2,7 +2,15 @@
 Name: "CV Labs", 
 Website: "https://cvlabs.com/", 
 Twitter: "https://twitter.com/cv_labs", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Software House",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 CV Labs is the ecosystem business of CV VC. We combine coworking, a variety of events, and advisory activities to create a unique global blockchain ecosystem.

@@ -2,7 +2,15 @@
 Name: "Bithumb", 
 Website: "https://www.bithumb.com/", 
 Twitter: "https://twitter.com/bithumbofficial?lang=en", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Bithumb is a South Korean cryptocurrency exchange.

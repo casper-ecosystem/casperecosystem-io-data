@@ -2,7 +2,15 @@
 Name: "ZB.com", 
 Website: "https://www.zb.com/", 
 Twitter: "https://twitter.com/ZBexchange", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 The World's Most Secure Digital Asset Exchange

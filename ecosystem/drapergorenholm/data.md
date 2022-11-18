@@ -2,7 +2,15 @@
 Name: "DraperGorenHolm", 
 Website: "https://drapergorenholm.com/", 
 Twitter: "https://twitter.com/DraperGorenHolm", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "P-Other",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Draper Goren Holm is a blockchain venture studio and fund created by Tim Draper, Alon Goren, and Josef Holm with a focus on incubating and accelerating the best early-stage startups from around the world.

@@ -2,7 +2,15 @@
 Name: "BroadLeaf", 
 Website: "https://www.broadleaf.co.jp/english", 
 Twitter: "", 
-Tags: "Building on Casper", 
+Architecture: "Partners",
+Segment: "Software House",
+Category: "",
+Application-Category: "",
+Tags: "Software House",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 We have been providing software and services for about 40 years which have been used by about 37,000 customers as the Group.

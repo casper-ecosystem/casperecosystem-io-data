@@ -2,7 +2,15 @@
 Name: "Megala Ventures", 
 Website: "https://megala.ventures/", 
 Twitter: "https://twitter.com/MegalaVentures", 
-Tags: "Validators, Staking Pools", 
+Architecture: "Partners",
+Segment: "P-Other",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Mining / minting / staking pool

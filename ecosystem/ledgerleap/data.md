@@ -2,7 +2,15 @@
 Name: "LedgerLeap", 
 Website: "https://ledgerleap.com/", 
 Twitter: "", 
-Tags: "Building on Casper", 
+Architecture: "Partners",
+Segment: "Software House",
+Category: "",
+Application-Category: "",
+Tags: "Software House",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 We build blockchain from concept to execution.

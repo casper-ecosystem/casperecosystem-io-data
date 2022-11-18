@@ -2,7 +2,15 @@
 Name: "RobotCache", 
 Website: "https://www.robotcache.com", 
 Twitter: "https://twitter.com/RobotCache", 
-Tags: "Games, NFTs", 
+Architecture: "User & Access Layer",
+Segment: "Gaming",
+Category: "Platforms",
+Application-Category: "",
+Tags: "Gaming",
+Contact: "",
+Project-Status: "Not Live - In Development",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 The world's first blockchain-based digital marketplace for videogames.

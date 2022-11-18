@@ -2,7 +2,15 @@
 Name: "Wise.Art", 
 Website: "https://platform.wise.art/", 
 Twitter: "https://twitter.com/WISeKey", 
-Tags: "Games, NFTs", 
+Architecture: "User & Access Layer",
+Segment: "NFT",
+Category: "Marketplace",
+Application-Category: "",
+Tags: "NFT",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 The Trusted and Sustainable Marketplace for Next Gen NFTs

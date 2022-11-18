@@ -2,7 +2,15 @@
 Name: "Rainfall", 
 Website: "https://rainfall.one/", 
 Twitter: "https://twitter.com/rainfall_one", 
-Tags: "Building on Casper", 
+Architecture: "Partners",
+Segment: "P-Other",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Rainfall is a privacy-preserving intelligence platform that uses Edge-AI and Web3 technology to unlock the economic value from your data.

@@ -2,7 +2,15 @@
 Name: "LEAD", 
 Website: "https://leadventures.ae/", 
 Twitter: "http://twitter.com/Lead_Ventures", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Consultancy",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Lead Ventures are a team of professionals that form a strategic partnership platform, with a wealth of experience in multiple industries in the local and international scene
