@@ -2,7 +2,15 @@
 Name: "Ferrum Network", 
 Website: "https://ferrum.network/", 
 Twitter: "https://twitter.com/FerrumNetwork", 
-Tags: "DeFi, CeFi", 
+Architecture: "Infrastructure",
+Segment: "Bridges",
+Category: "",
+Application-Category: "",
+Tags: "Bridges",
+Contact: "",
+Project-Status: "Not Live - In Development",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 FRM is the native cryptocurrency of the Ferrum Network and is required for users to interact with the network.

@@ -2,7 +2,15 @@
 Name: "AscendEX", 
 Website: "https://ascendex.com/", 
 Twitter: "https://twitter.com/_AscendEX", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 AscendEX is a global cryptocurrency platform, with a comprehensive product suite, including spot, margin, and futures trading for 200+ blockchain projects.

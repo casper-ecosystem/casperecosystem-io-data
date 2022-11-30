@@ -2,7 +2,15 @@
 Name: "Scalio", 
 Website: "https://scal.io/", 
 Twitter: "https://twitter.com/ScalioLabs", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Software House",
+Category: "",
+Application-Category: "",
+Tags: "Software House",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 We're a digital product agency advancing technology for the world's leading companies.

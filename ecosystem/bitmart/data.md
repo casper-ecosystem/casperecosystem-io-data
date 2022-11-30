@@ -2,7 +2,15 @@
 Name: "BitMart", 
 Website: "https://www.bitmart.com/", 
 Twitter: "https://twitter.com/BitMartExchange", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 BitMart - The most trusted cryptocurrency trading platform which provides real-time trading services.

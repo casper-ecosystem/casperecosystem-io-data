@@ -2,7 +2,15 @@
 Name: "IPWE", 
 Website: "https://ipwe.com/", 
 Twitter: "https://twitter.com/ipwe_", 
-Tags: "Building on Casper", 
+Architecture: "User & Access Layer",
+Segment: "NFT",
+Category: "Real World Solution (CSPR)",
+Application-Category: "Physical/Digital/virtual",
+Tags: "NFT",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 The platform for blockchain-enabled IP transactions. Grow your revenue and mitigate IP risk with simple, clear-cut, and actionable answers that will increase your assets’ overall value.

@@ -2,7 +2,15 @@
 Name: "Uphold", 
 Website: "https://uphold.com/", 
 Twitter: "https://twitter.com/UpholdInc", 
-Tags: "Wallets", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "Wallet ",
+Application-Category: "",
+Tags: "Wallets",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 A more versatile home for your financial life

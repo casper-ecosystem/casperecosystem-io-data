@@ -2,7 +2,15 @@
 Name: "MetaCask", 
 Website: "https://metacask.com/", 
 Twitter: "https://twitter.com/metacask", 
-Tags: "Games, NFTs", 
+Architecture: "User & Access Layer",
+Segment: "NFT",
+Category: "Real World Solution (CSPR)",
+Application-Category: "Physical/Digital/virtual",
+Tags: "NFT",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 The Marketplace For Spirits Backed NFTs

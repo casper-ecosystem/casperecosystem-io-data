@@ -2,7 +2,15 @@
 Name: "MatterFi", 
 Website: "https://matterfi.com/", 
 Twitter: "https://mobile.twitter.com/fimatter", 
-Tags: "DeFi, CeFi", 
+Architecture: "Infrastructure",
+Segment: "Scalability",
+Category: "",
+Application-Category: "",
+Tags: "DApps",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 MatterFi is building a revolutionary security platform that uses distributed systems to decimate single point of failure risks.

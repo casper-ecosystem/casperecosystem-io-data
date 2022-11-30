@@ -2,7 +2,15 @@
 Name: "Simplex", 
 Website: "https://www.simplex.com/", 
 Twitter: "https://twitter.com/SimplexCC", 
-Tags: "DeFi, CeFi", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "fiat on/off ramps ( outside CEXs )",
+Application-Category: "",
+Tags: "DeFi",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Simplex, a licensed financial institution, empowers its vast network of partners to accept the widest range of payment methods.

@@ -2,7 +2,15 @@
 Name: "LATOKEN", 
 Website: "https://latoken.com/", 
 Twitter: "https://twitter.com/latokens", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 LATOKEN is a cutting edge exchange which makes investing and payments easy and safe worldwide. 

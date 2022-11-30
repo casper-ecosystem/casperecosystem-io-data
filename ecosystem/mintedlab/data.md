@@ -2,7 +2,15 @@
 Name: "MintedLab", 
 Website: "https://minted-lab.com/", 
 Twitter: "https://twitter.com/minted_lab", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Consultancy",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Marketing numerous projects in the cryptocurrency market through professional and accurate analysis of Minted Lab. 

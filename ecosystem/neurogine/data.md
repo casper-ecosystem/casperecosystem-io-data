@@ -2,7 +2,15 @@
 Name: "Neurogine", 
 Website: "https://www.neurogine.com/", 
 Twitter: "", 
-Tags: "Building on Casper", 
+Architecture: "Partners",
+Segment: "P-Other",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Not Live - In Development",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Bridging Commerce, Consumer & Society In Asia-Pacific

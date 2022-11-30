@@ -2,7 +2,15 @@
 Name: "D-Music", 
 Website: "https://dmusic.io/", 
 Twitter: "https://mobile.twitter.com/dmusic_io", 
-Tags: "Games, NFTs", 
+Architecture: "User & Access Layer",
+Segment: "NFT",
+Category: "Collectible Project",
+Application-Category: "Music NFTs",
+Tags: "NFT",
+Contact: "",
+Project-Status: "Not Live - In Development",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 NFT platform for the music industry.

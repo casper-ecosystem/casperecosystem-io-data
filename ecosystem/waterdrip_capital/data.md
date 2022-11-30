@@ -2,7 +2,15 @@
 Name: "WaterDrip Capital", 
 Website: "http://waterdrip.io/", 
 Twitter: "https://twitter.com/waterdripfund", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "P-Other",
+Category: "",
+Application-Category: "",
+Tags: "NFT",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 We are dedicated to connecting traditional financial market with blockchain ecosystem by actively investing in innovative blockchain startups

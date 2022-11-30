@@ -2,7 +2,15 @@
 Name: "Accubits", 
 Website: "https://accubits.com/", 
 Twitter: "https://twitter.com/accubits", 
-Tags: "Building on Casper", 
+Architecture: "Partners",
+Segment: "Software House",
+Category: "",
+Application-Category: "",
+Tags: "Software House",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Accubits technologies is a global solution provider enabling enterprises to apply artificial intelligence and blockchain technologies in their business.

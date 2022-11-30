@@ -8,14 +8,17 @@ All entries reside in the `casperblockchain-data/ecosystem` subdirectory.
 
 When adding a new entry, we create a unique directory name and add `data.md` file inside.
 
-### `data.md` file contents
+### `project.md` file contents
 
 ```
 --- 
 Name: "Project name", 
 Website: "https://projectsite.com/", 
 Twitter: "https://twitter.com/projecttwitter", 
-Tags: "Category 1, Category2", 
+Tags: "Tag1, Tag2",
+Contact: "hello(at)project.name",
+contract-hashes-casper: "86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af74",
+contract-hashes-casper-test: "e375d42c29c0e4b2baefa63cf2d70af34439eda851e08129d8515515d63bd6a9",
 --- 
 <!--lang:en--> 
 Project descritpion
@@ -25,3 +28,4 @@ Additionally, we can add the logotype for the project into the `assets` subdirec
 
 ## Contribution guide
 We only accept contributions to the casperblockchain.io through GitHub. Contribute to the next release by submitting PRs (Pull Requests) to the main branch.
+

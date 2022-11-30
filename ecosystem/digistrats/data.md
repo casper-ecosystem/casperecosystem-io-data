@@ -2,7 +2,15 @@
 Name: "Digistrats", 
 Website: "https://digistrats.com/", 
 Twitter: "https://twitter.com/digistrats_com", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Consultancy",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 When we invest, we build. We're not just financiers. We have a full-scale tech team & gaming guild that dives in to play, build & collaborate.

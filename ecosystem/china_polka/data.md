@@ -2,7 +2,15 @@
 Name: "China Polka", 
 Website: "http://chinapolka.com/", 
 Twitter: "https://twitter.com/chinapolka", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Marketing Agency",
+Category: "",
+Application-Category: "",
+Tags: "Marketing Agency",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 A self-organized non-profit Chinese community alliance of Polka. 

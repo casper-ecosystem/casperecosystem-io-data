@@ -2,7 +2,15 @@
 Name: "BW.com", 
 Website: "https://www.bw.com/", 
 Twitter: "https://twitter.com/BWOfficial2", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 BW.COM, the world's leading one-stop financial service platform.

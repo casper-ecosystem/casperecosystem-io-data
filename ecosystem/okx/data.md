@@ -2,7 +2,15 @@
 Name: "OKX", 
 Website: "https://www.okx.com/", 
 Twitter: "https://twitter.com/okx", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 OKX is the world's largest cryptocurrency, spot & derivatives and bitcoin exchange.

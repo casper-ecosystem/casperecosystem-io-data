@@ -2,7 +2,15 @@
 Name: "MEXC Exchange", 
 Website: "https://www.mexc.com/", 
 Twitter: "https://twitter.com/MEXC_Global", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 MEXC Crypto Exchange. Our platform provides free and safe digital asset trading, real-time prices of crypto tokens.

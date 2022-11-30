@@ -2,7 +2,15 @@
 Name: "GSR", 
 Website: "https://www.gsr.io/", 
 Twitter: "https://twitter.com/GSR_io", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "P-Other",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 GSR is a crypto market maker and ecosystem partner.
