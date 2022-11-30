@@ -29,95 +29,10 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: architecture
-    attributes:
-      label: Architecture Layer
-      description: Select project's architecture layer type
-      options:
-        - User & Access Layer
-        - Launchpad
-        - Infrastructure
-        - L1 Operators
-        - L2 Education
-        - Partners
-    validations:
-      required: true
-  - type: dropdown
-    id: segment
-    attributes:
-      label: Segment
-      options:
-        - NFT
-        - Gaming
-        - DeFi
-        - Other dApps
-        - DAO
-        - SDK
-        - Bridges
-        - Indexers
-        - Smart Contracts
-        - Oracles
-        - Scalability
-        - Other
-        - Exchanges
-        - Validator
-        - Node-as-a-service
-        - Contributors
-        - Learn & Earn
-        - Casper Web3 Onboarder
-        - Software House
-        - Creative Agency
-        - Marketing Agency
-        - Consultancy
-    validations:
-      required: true
-  - type: dropdown
-    id: category
-    attributes:
-      label: Category
-      description: Please select Project Category from the dropdown. Please note that this is a Primary Category and an important mandatory input 
-      options:
-        - Marketplace
-        - Launchpad
-        - Collectible Project
-        - Real World Solution(CSPR)
-        - Web 2.5
-        - GameFi
-        - Game with NFT
-        - Play & Earn
-        - Platforms
-        - AR/VR/Metaverse
-        - Wallet
-        - Explorer
-        - Custodial Platforms
-        - DEX
-        - AMM
-        - Token Launcpad
-        - Liquidity Platforms
-        - Price Oracles
-        - Swap Platforms
-        - Yield Farming
-        - Fian On/Off Ramps (outside CEXs)
-        - Multi-chain Bridges(Wormhole)
-        - Identity Platform
-        - Margin Trading
-        - Decentralized Insurance Platform
-        - Prediction Markets
-        - Derivative Marketplace
-        - DAO & Voting Platform
-        - Micro-Payments Processor
-        - Stablecoins
-        - Lending/Borrowing
-        - Self Custody Wallets (Browser & Mobile)
-        - Payment Integration
-        - Social Media 
-    validations:
-      required: true
-  - type: dropdown
     id: application-category
     attributes:
       label: Application Category
-      description: Please select the applicable secondary categories. This is an Optional input.
+      description: Please select the Application Category or Categories that best describes your Project/Application. Multi-select allowed.
       multiple: true
       options: 
         - PFP and Avatars
@@ -136,7 +51,7 @@ body:
         - Asset-bracket
         - Physical/Digital/Virtual
     validations:
-      required: false
+      required: true
   - type: input
     id: contact
     attributes:
