@@ -2,7 +2,15 @@
 Name: "Gitcoin", 
 Website: "https://gitcoin.co", 
 Twitter: "https://twitter.com/gitcoin", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "P-Other",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Build and Fund the Open Web Together. Connect with the community developing digital public goods, creating financial freedom, and defining the future of the open web.

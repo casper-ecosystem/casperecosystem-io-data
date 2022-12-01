@@ -2,7 +2,15 @@
 Name: "BitGo", 
 Website: "https://www.bitgo.com/", 
 Twitter: "https://twitter.com/BitGo", 
-Tags: "Wallets", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "Wallet ",
+Application-Category: "",
+Tags: "Wallets",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Institutional digital asset custody, trading, and finance. BitGo enables our clients to navigate the complex landscape of digital assets with a connected, compliant, and secure suite of solutions.

@@ -2,7 +2,15 @@
 Name: "PlugANDPlay", 
 Website: "https://www.plugandplaytechcenter.com/", 
 Twitter: "", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Consultancy",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Blockchain · Private Securities on Blockchain are the Next Big Thing

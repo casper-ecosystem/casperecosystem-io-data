@@ -2,7 +2,15 @@
 Name: "Acheron Trading", 
 Website: "https://acherontrading.com/", 
 Twitter: "", 
-Tags: "Partners", 
+Architecture: "L1 Operators",
+Segment: "Node as a Service",
+Category: "",
+Application-Category: "",
+Tags: "Operators",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 AcheronTrading is a designated market maker which provides liquidity and advisory services to digital asset issuers on exchanges.

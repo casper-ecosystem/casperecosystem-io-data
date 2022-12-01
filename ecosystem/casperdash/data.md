@@ -2,7 +2,15 @@
 Name: "CasperDash", 
 Website: "https://casperdash.io/", 
 Twitter: "https://twitter.com/casperdash_io", 
-Tags: "Tooling, Explorers, Oracles", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "Wallet ",
+Application-Category: "",
+Tags: "Wallets",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 A non-custodial wallet built in Casper blockchain. Store, send and receive tokens on Casper ecosystem with CasperDash. Also, CasperDash is available for storing all digital assets as NFTs and tokens.

@@ -2,7 +2,15 @@
 Name: "Bitrue", 
 Website: "https://www.bitrue.com/", 
 Twitter: "https://twitter.com/BitrueOfficial", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Bitrue is the most secure and advanced online platform for buying, selling, transferring, and storing digital currency. It is safe and easy to use.

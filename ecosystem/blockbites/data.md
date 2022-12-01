@@ -2,7 +2,15 @@
 Name: "BlockBites", 
 Website: "https://blockbit.es/", 
 Twitter: "", 
-Tags: "Building on Casper", 
+Architecture: "Partners",
+Segment: "Software House",
+Category: "",
+Application-Category: "",
+Tags: "Software House",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Blockchain. NFT. Development on Casper.

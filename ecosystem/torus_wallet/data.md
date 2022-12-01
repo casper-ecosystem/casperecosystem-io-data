@@ -2,7 +2,15 @@
 Name: "Torus Wallet", 
 Website: "https://toruswallet.io/", 
 Twitter: "https://twitter.com/TorusLabs", 
-Tags: "Wallets", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "Wallet ",
+Application-Category: "",
+Tags: "Wallets",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 One-Click login for Web 3.0. Mainstream users' gateway to the decentralized ecosystem via a login they are familiar with

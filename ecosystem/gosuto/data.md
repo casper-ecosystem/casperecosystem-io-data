@@ -2,7 +2,15 @@
 Name: "Gosuto", 
 Website: "https://gosutowallet.com/", 
 Twitter: "https://twitter.com/gosutoio", 
-Tags: "Wallets", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "Wallet ",
+Application-Category: "",
+Tags: "Wallets",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Stake, transact and store your Casper on Gosuto, a desktop cryptocurrency wallet.

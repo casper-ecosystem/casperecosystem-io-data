@@ -2,7 +2,15 @@
 Name: "BlockDream", 
 Website: "https://www.okx.com/blockdream-ventures", 
 Twitter: "https://twitter.com/okx", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Software House",
+Category: "",
+Application-Category: "",
+Tags: "Software House",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 With an initial capital of $100 million, Blockdream Ventures is a fund focused on exploring high-quality projects with great potential.

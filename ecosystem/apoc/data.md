@@ -2,7 +2,15 @@
 Name: "APOC", 
 Website: "https://apocnft.com/", 
 Twitter: "https://mobile.twitter.com/apocnft", 
-Tags: "Games, NFTs", 
+Architecture: "User & Access Layer",
+Segment: "NFT",
+Category: "Marketplace",
+Application-Category: "",
+Tags: "NFT",
+Contact: "",
+Project-Status: "Not Live - In Development",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 An apocalyptic Metaverse is coming to the Casper Network

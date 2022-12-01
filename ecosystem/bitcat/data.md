@@ -2,7 +2,15 @@
 Name: "BitCat", 
 Website: "https://www.bitcat365.com/", 
 Twitter: "https://twitter.com/bitcat365", 
-Tags: "Validators, Staking Pools", 
+Architecture: "L1 Operators",
+Segment: "Validators",
+Category: "",
+Application-Category: "",
+Tags: "Validators",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Mining / minting / staking pool

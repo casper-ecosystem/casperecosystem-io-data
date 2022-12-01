@@ -2,7 +2,15 @@
 Name: "AMLSafe", 
 Website: "https://amlsafe.io/", 
 Twitter: "", 
-Tags: "Building on Casper, Wallets", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "Wallet ",
+Application-Category: "",
+Tags: "Wallets",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 The first cryptowallet with AML module and KYC powered by AI

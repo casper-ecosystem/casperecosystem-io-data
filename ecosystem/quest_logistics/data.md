@@ -2,7 +2,15 @@
 Name: "Quest Logistics", 
 Website: "https://www.quest-global.com/", 
 Twitter: "https://twitter.com/QuEST_Global", 
-Tags: "Building on Casper", 
+Architecture: "Partners",
+Segment: "Consultancy",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Quest Global brings deep industry knowledge and digital expertise to deliver E2E global product engineering services. 

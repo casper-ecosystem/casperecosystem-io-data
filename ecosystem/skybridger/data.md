@@ -2,7 +2,15 @@
 Name: "SkyBridger", 
 Website: "https://skybridger.io/", 
 Twitter: "https://twitter.com/SkyBridger_io", 
-Tags: "DeFi, CeFi", 
+Architecture: "Infrastructure",
+Segment: "Bridges",
+Category: "",
+Application-Category: "",
+Tags: "Bridges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Bridge for Casper.

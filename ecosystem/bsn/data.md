@@ -2,7 +2,15 @@
 Name: "BSN", 
 Website: "https://bsnbase.io/", 
 Twitter: "https://twitter.com/bsnbase", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "P-Other",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 A cross-cloud, cross-portal, and cross-framework global public infrastructure network  used to deploy and operate all types of blockchain distributed applications (DApps).

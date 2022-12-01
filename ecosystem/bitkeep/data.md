@@ -2,7 +2,15 @@
 Name: "BitKeep", 
 Website: "https://bitkeep.com/", 
 Twitter: "https://twitter.com/BitKeepOS", 
-Tags: "Wallets", 
+Architecture: "User & Access Layer",
+Segment: "DeFi",
+Category: "Wallet ",
+Application-Category: "",
+Tags: "Wallets",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Find the hottest assets in BitKeep. A crypto wallet that anyone can get started in one minute.

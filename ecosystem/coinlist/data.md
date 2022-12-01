@@ -2,7 +2,15 @@
 Name: "Coinlist", 
 Website: "https://coinlist.co/", 
 Twitter: "https://twitter.com/coinlist", 
-Tags: "Wallets, Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 The fullstack solution for crypto Buy, earn, and trade the best new cryptoassets all under one roof

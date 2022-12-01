@@ -1,0 +1,11 @@
+cspr_live,
+caspertigers,
+metacask,
+simplex,
+metalpay,
+huobi,
+okx,
+dotoracle,
+changenow,
+nownodes,
+simpleswap

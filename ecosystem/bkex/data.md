@@ -2,7 +2,15 @@
 Name: "BKEX", 
 Website: "https://www.bkex.com/", 
 Twitter: "https://twitter.com/BKEXGlobal", 
-Tags: "Exchanges", 
+Architecture: "L1 Operators",
+Segment: "Exchanges",
+Category: "",
+Application-Category: "",
+Tags: "Exchanges",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 BKEX the world's leading blockchain derivatives service

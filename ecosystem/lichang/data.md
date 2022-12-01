@@ -2,7 +2,15 @@
 Name: "Lichang", 
 Website: "https://cryptorival.com/coins/lichang/", 
 Twitter: "", 
-Tags: "Partners", 
+Architecture: "Partners",
+Segment: "Marketing Agency",
+Category: "",
+Application-Category: "",
+Tags: "Marketing Agency",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Lichang has been defined as both a community platform and a UGC (User Generated Contribution) platform based on the mutual construction and mining of public chain.

@@ -2,7 +2,15 @@
 Name: "Rengo Labs", 
 Website: "https://www.rengocapital.com/", 
 Twitter: "", 
-Tags: "Building on Casper", 
+Architecture: "Partners",
+Segment: "Consultancy",
+Category: "",
+Application-Category: "",
+Tags: "Partner",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Technology Services and Advisors for Digital Assets

@@ -2,7 +2,15 @@
 Name: "Arcadia Group", 
 Website: "https://dotoracle.network", 
 Twitter: "https://twitter.com/DotOracle", 
-Tags: "Tooling, Explorers, Oracles", 
+Architecture: "Partners",
+Segment: "Software House",
+Category: "",
+Application-Category: "",
+Tags: "Software House",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Real-time decentralized Oracle and Cross-chain liquidity network for Polkadot Ecosystem

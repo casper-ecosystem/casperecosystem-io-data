@@ -2,7 +2,15 @@
 Name: "DevXDao", 
 Website: "https://www.devxdao.com/", 
 Twitter: "https://twitter.com/DEVXDAO", 
-Tags: "Building on Casper, DAOs", 
+Architecture: "User & Access Layer",
+Segment: "DAO",
+Category: "",
+Application-Category: "",
+Tags: "DAO",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 The DEVXDAO supports open source and transparent scientific research for emerging technologies.

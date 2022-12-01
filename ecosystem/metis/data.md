@@ -2,7 +2,15 @@
 Name: "METIS", 
 Website: "https://www.metis.io/", 
 Twitter: "https://twitter.com/MetisDAO", 
-Tags: "Partners", 
+Architecture: "User & Access Layer",
+Segment: "DAO",
+Category: "",
+Application-Category: "",
+Tags: "DAO",
+Contact: "",
+Project-Status: "Live - Active",
+Contract-Hashes-Main: "",
+Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
 Metis is a decentralized economy platform to start, run, and grow any decentralized app, business, and community on the blockchain
