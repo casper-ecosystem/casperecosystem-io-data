@@ -1,0 +1,80 @@
+name: New Project Request
+description: Create a new project entry request to add your project in Casper Ecosystem.
+title: "[Add Project]: Name of Your Project"
+labels: ["Project"]
+assignees:
+  - devendran-m
+  - piotr-dziubecki
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project name
+      description: Human Readable Project Name
+      placeholder: Supercars NFT
+    validations:
+      required: true
+  - type: textarea
+    id: project-description
+    attributes:
+      label: Project Description
+      description: Please provide the description of the project in a couple of sentences.
+      placeholder: Example Project description
+  - type: input
+    id: website
+    attributes:
+      label: Project URL/Website
+      description: Please provide the full url adddress of the project website.
+      placeholder: "www.example.com*"
+    validations:
+      required: true
+  - type: dropdown
+    id: casperecosys-proj-tag
+    attributes:
+      label: Project Category/Tag
+      description: Please select the Project Category or Tag that best describes your Project/Application.
+      multiple: false
+      options: 
+        - Bridges
+        - DAO 
+        - DApps
+        - DeFi
+        - Education
+        - Exchanges
+        - Gaming
+        - Launchpad
+        - Marketing Agency
+        - NFT
+        - Operators
+        - Oracles
+        - Partner
+        - SDK
+        - Software House
+        - Validators
+        - Wallets
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact details
+      description: Please provide your email address
+      placeholder: contact(at)example.project
+    validations:
+      required: false
+  - type: textarea
+    id: contract-hashes-casper
+    attributes:
+      label: Project's Contract Hashes on Casper Mainnet
+      description: Please provide the contract hashes of your smart contract deployed to casper network (Mainnet) separated by comas.
+      placeholder: "86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af74, 86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af74"
+    validations:
+      required: false
+  - type: textarea
+    id: contract-hashes-casper-test
+    attributes:
+      label: Project's Contract Hashes on Casper Testnet
+      description: Please provide the contract hashes of your smart contract deployed to casper network (Testnet) separated by comas.
+      placeholder: "e375d42c29c0e4b2baefa63cf2d70af34439eda851e08129d8515515d63bd6a9, 86f2d45f024d7bb7fb5266b2390d7c253b588a0a16ebd946a60cb4314600af75"
+    validations:
+      required: false 
