@@ -29,27 +29,29 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: application-category
+    id: casperecosys-proj-tag
     attributes:
-      label: Application Category
-      description: Please select the Application Category or Categories that best describes your Project/Application. Multi-select allowed.
-      multiple: true
+      label: Project Category/Tag
+      description: Please select the Project Category or Tag that best describes your Project/Application.
+      multiple: false
       options: 
-        - PFP and Avatars
-        - Artwork
-        - Generative Art/AI
-        - Photography NFTs
-        - Music NFTs
-        - Gamified NFTs
-        - Access NFTs
-        - Event Ticketing NFTs
-        - Real Estate
-        - Inheritances
-        - Identify
-        - Certificates
-        - Smart Financial Tokens
-        - Asset-bracket
-        - Physical/Digital/Virtual
+        - Bridges
+        - DAO 
+        - DApps
+        - DeFi
+        - Education
+        - Exchanges
+        - Gaming
+        - Launchpad
+        - Marketing Agency
+        - NFT
+        - Operators
+        - Oracles
+        - Partner
+        - SDK
+        - Software House
+        - Validators
+        - Wallets
     validations:
       required: true
   - type: input
