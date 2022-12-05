@@ -47,7 +47,7 @@ In case of any insufficient data/information or should the reviewer team conside
 
 Please find the details in the process flow diagram below;
 
-![Project Intake Process Flow](/casperecosystem-io-data/.github/images/project_intake_process.png?raw=true "Project Intake Process Flow")
+![Project Intake Process Flow](https://github.com/casper-ecosystem/casperecosystem-io-data/raw/569fe61b7418ccf81532db03b077e1afb3dd52e9/.github/images/project_intake_process.png "Project Intake Process Flow")
 
 
 ## Contribution guide
