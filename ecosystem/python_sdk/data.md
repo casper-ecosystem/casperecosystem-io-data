@@ -1,7 +1,7 @@
 ---
 Name: "Python Casper Client SDK",
 Website: "https://github.com/casper-network/casper-python-sdk/",
-Twitter: "@asladeofgreen",
+Twitter: "",
 Architecture: "Infrastructure",
 Segment: "SDK",
 Category: "",
