@@ -13,7 +13,7 @@ Contract-Hashes-Main: "",
 Contract-Hashes-Test: "",
 ---
 <!--lang:en--> 
-Implementation of ERC20 Token, Pair ,Factory, Flash Swapper, and WCSPR Contract for the CasperLabs platform.
+CasperSwap is the first automated market-making decentralized exchange on the Casper Network. It provides an open, transparent, and efficient solution for protocols to incentivize liquidity for their own use case, for liquidity providers to earn fees and competitive rewards, and for traders to swap assets efficiently. 
 <!--lang:es--] 
 Implementación de ERC20 Token, Pair, Factory, Flash Swapper y WCSPR Contract para la plataforma CasperLabs.
 <!--lang:de--] 
