@@ -13,7 +13,7 @@ Contract-Hashes-Main: "",
 Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
-SyntFi provides KYC/AML infrastructure. SyntFi (along with StormEye) are important Java based infrastructure providers.
+SyntiFi risk and onboarding intelligence brings the compliance and financial crime prevention layer to Web3 with its collaborative privacy-focused technology solutions built for enterprises.
 <!--lang:es--] 
 <!--lang:de--] 
 <!--lang:fr--] 
