@@ -1,5 +1,5 @@
 ---
-Name: "Casper Swap",
+Name: "CasperSwap",
 Website: "https://casperswap.xyz/",
 Twitter: "https://twitter.com/casperswap",
 Architecture: "User & Access Layer",
