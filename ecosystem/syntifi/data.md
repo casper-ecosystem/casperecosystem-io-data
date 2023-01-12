@@ -1,5 +1,5 @@
 --- 
-Name: "SyntFi", 
+Name: "SyntiFi", 
 Website: "https://www.syntifi.com/", 
 Twitter: "https://twitter.com/SyntiFi", 
 Architecture: "Infrastructure",
