@@ -47,14 +47,13 @@ body:
     id: offerings
     attributes:
       label: Organization's Service Offerings
-      description: Select the type of services that the Organisation offers
-      multiple: true
+      description: Select the type of service that the Organisation offers
+      multiple: false
       options:
-        - Software Development (Web/Mobile)
-        - Staff Augumentation
-        - Managed Support Services (SRE/DevOps)
-        - Managed Cloud / Infrastructure Services
-        - Baremetal Service Provider
+        - Software House
+        - Validators
+        - Operators
+        - Marketing Agency
     validations:
       required: true  
   - type: dropdown
@@ -97,9 +96,9 @@ body:
   - type: textarea
     id: poc
     attributes:
-      label: Point of Contact
+      label: Contact
       description: Organization's Primary/Single Point of Contact for this request. Please include their title.
-      placeholder: John Doe, Manager Customer Success
+      placeholder: John Doe, Manager Customer Success / contact@us.com
     validations:
       required: true
   - type: textarea
@@ -109,7 +108,7 @@ body:
       description: Official/Registered Address of the Organisation. Please include City, State, Pincode/Zipcode
       placeholder: 1144, 6th Avenue, New York, NY or 12, Claude Place, Halifax, HX1 2HY
     validations:
-      required: true
+      required: false
   - type: input
     id: twitter
     attributes:
@@ -117,7 +116,7 @@ body:
       description: Official Twitter Handle
       placeholder: "@IamAServiceProvider"
     validations:
-      required: false
+      required: true
   - type: input
     id: discord
     attributes:
