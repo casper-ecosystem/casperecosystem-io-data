@@ -4,7 +4,7 @@ Website: "https://github.com/casper-ecosystem/casper-js-sdk",
 Projects: "CasperSign",
 ---
 <!--lang:en--> 
-Casper Client SDK for JavaScript
+TypeScript Casper Client SDK
 <!--lang:es--] 
 CasperLabs SDK for JavaScript
 <!--lang:de--] 

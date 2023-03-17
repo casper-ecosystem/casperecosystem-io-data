@@ -4,7 +4,7 @@ Website: "https://github.com/casper-network/casper-db-utils",
 Projects: "Casper Labs",
 ---
 <!--lang:en--> 
-test
+Utilities for working with databases of the Casper blockchain
 <!--lang:es--] 
 test
 <!--lang:de--] 

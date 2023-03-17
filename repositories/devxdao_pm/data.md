@@ -4,7 +4,7 @@ Website: "https://github.com/ledgerleapllc/devxdao-pm",
 Projects: "LedgerLeap",
 ---
 <!--lang:en--> 
-test
+The DevxDao's Program Management and Operations portal
 <!--lang:es--] 
 test
 <!--lang:de--] 

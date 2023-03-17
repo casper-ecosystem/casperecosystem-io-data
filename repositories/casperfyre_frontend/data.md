@@ -4,7 +4,7 @@ Website: "https://github.com/ledgerleapllc/casperfyre-frontend",
 Projects: "LedgerLeap",
 ---
 <!--lang:en--> 
-test
+CasperFYRE Frontend - Dispensory API interface for Casper mainnet
 <!--lang:es--] 
 test
 <!--lang:de--] 

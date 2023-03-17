@@ -4,7 +4,7 @@ Website: "https://github.com/ledgerleapllc/cleareststake-frontend",
 Projects: "LedgerLeap",
 ---
 <!--lang:en--> 
-test
+Administration portal for fund management of LP users
 <!--lang:es--] 
 test
 <!--lang:de--] 

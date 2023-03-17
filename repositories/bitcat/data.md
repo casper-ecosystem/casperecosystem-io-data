@@ -4,7 +4,7 @@ Website: "https://github.com/ENFP-Dev-Studio/bitcat",
 Projects: "BitCat",
 ---
 <!--lang:en--> 
-test
+Bitcat is a desktop widget app where cute kittens wish the skyrocket in cryptocurrency
 <!--lang:es--] 
 test
 <!--lang:de--] 

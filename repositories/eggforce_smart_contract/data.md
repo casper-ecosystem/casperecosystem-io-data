@@ -4,7 +4,7 @@ Website: "https://github.com/CasperDash/eggforce-smart-contract",
 Projects: "EggForce",
 ---
 <!--lang:en--> 
-test
+Casper Dragon NFT smart contract (CEP78 enhanced NFT)
 <!--lang:es--] 
 test
 <!--lang:de--] 

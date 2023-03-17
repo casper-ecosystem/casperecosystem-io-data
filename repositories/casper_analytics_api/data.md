@@ -1,10 +1,10 @@
 ---
 Name: "casper_analytics_api",
 Website: "https://github.com/caspercommunityio/casper-analytics-api",
-Projects: "Caspercommunity.io",
+Projects: "Casper Analytics",
 ---
 <!--lang:en--> 
-test
+Backend for the Casper Analytics App
 <!--lang:es--] 
 test
 <!--lang:de--] 

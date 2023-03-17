@@ -4,7 +4,7 @@ Website: "https://github.com/MinorityProgrammers/harmony-dao",
 Projects: "MinorityProgrammers",
 ---
 <!--lang:en--> 
-test
+This is the official Github for Minority Programmers Association's DAO on Harmony
 <!--lang:es--] 
 test
 <!--lang:de--] 

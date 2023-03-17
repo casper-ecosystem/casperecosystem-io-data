@@ -4,7 +4,7 @@ Website: "https://github.com/FriendlyMarket/casper-erc20",
 Projects: "Friendly Market",
 ---
 <!--lang:en--> 
-test
+Implementation of the ERC20 standard on the Casper Network
 <!--lang:es--] 
 test
 <!--lang:de--] 

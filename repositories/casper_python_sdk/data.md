@@ -4,7 +4,7 @@ Website: "https://github.com/casper-network/casper-python-sdk",
 Projects: "Casper Labs",
 ---
 <!--lang:en--> 
-test
+Python library for interacting with a CSPR node
 <!--lang:es--] 
 test
 <!--lang:de--] 

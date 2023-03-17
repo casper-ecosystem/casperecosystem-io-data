@@ -4,7 +4,7 @@ Website: "https://github.com/torusresearch/OpenLoginSdk",
 Projects: "Torus Wallet",
 ---
 <!--lang:en--> 
-test
+Pluggable auth infrastructure for Web3 wallets and dapps
 <!--lang:es--] 
 test
 <!--lang:de--] 

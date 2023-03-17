@@ -4,7 +4,7 @@ Website: "https://github.com/TheArcadiaGroup/gosuto-wallet-desktop-svelte",
 Projects: "Gosuto",
 ---
 <!--lang:en--> 
-test
+Gosuto Desktop App, private repo for development, eventually publishes to "GosutoWallet" public repo
 <!--lang:es--] 
 test
 <!--lang:de--] 

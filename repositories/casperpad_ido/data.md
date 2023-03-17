@@ -4,7 +4,7 @@ Website: "https://github.com/casperpad/casperpad-ido",
 Projects: "CasperPad",
 ---
 <!--lang:en--> 
-test
+IDO platform smart contract for the Casper Network
 <!--lang:es--] 
 test
 <!--lang:de--] 

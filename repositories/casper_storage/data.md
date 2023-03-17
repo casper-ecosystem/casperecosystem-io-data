@@ -4,7 +4,7 @@ Website: "https://github.com/CasperDash/casper-storage",
 Projects: "CasperDash",
 ---
 <!--lang:en--> 
-test
+Casper storage - HD wallets
 <!--lang:es--] 
 test
 <!--lang:de--] 

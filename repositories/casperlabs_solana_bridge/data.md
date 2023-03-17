@@ -4,7 +4,7 @@ Website: "https://github.com/Rengo-Labs/CasperLabs-Solana-bridge",
 Projects: "Rengo Labs",
 ---
 <!--lang:en--> 
-test
+Casper - Solana Bridge
 <!--lang:es--] 
 test
 <!--lang:de--] 

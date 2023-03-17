@@ -4,7 +4,7 @@ Website: "https://github.com/make-software/casper-php-sdk",
 Projects: "Make Services",
 ---
 <!--lang:en--> 
-test
+PHP SDK to interact with the Casper Network nodes via RPC
 <!--lang:es--] 
 test
 <!--lang:de--] 

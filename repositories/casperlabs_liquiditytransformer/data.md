@@ -4,7 +4,7 @@ Website: "https://github.com/Rengo-Labs/CasperLabs-LiquidityTransformer",
 Projects: "Rengo Labs",
 ---
 <!--lang:en--> 
-test
+Liquidity Transformer
 <!--lang:es--] 
 test
 <!--lang:de--] 

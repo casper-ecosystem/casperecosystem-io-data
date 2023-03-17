@@ -4,7 +4,7 @@ Website: "https://github.com/casperpad/kunft-marketplace-frontend",
 Projects: "Kunft Marketplace",
 ---
 <!--lang:en--> 
-test
+KUNFT Marketplace
 <!--lang:es--] 
 test
 <!--lang:de--] 

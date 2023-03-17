@@ -4,7 +4,7 @@ Website: "https://github.com/DEVxDAO/MVPR-Rust",
 Projects: "DevXDao",
 ---
 <!--lang:en--> 
-test
+Implementation of MVPR in Rust for the Casper Network
 <!--lang:es--] 
 test
 <!--lang:de--] 

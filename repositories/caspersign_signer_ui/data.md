@@ -4,7 +4,7 @@ Website: "https://github.com/chronologic/caspersign-signer-ui",
 Projects: "CasperSign",
 ---
 <!--lang:en--> 
-test
+Casper Signer UI
 <!--lang:es--] 
 test
 <!--lang:de--] 

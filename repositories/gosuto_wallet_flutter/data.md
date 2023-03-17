@@ -4,7 +4,7 @@ Website: "https://github.com/TheArcadiaGroup/gosuto-wallet-flutter",
 Projects: "Gosuto",
 ---
 <!--lang:en--> 
-test
+Gosuto Mobile Wallet Implementation using Flutter
 <!--lang:es--] 
 test
 <!--lang:de--] 

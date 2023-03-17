@@ -4,7 +4,7 @@ Website: "https://github.com/casper-ecosystem/CasperTigersStatic",
 Projects: "CasperTigers",
 ---
 <!--lang:en--> 
-test
+Casper Tigers Static
 <!--lang:es--] 
 test
 <!--lang:de--] 

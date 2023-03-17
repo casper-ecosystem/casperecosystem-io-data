@@ -4,7 +4,7 @@ Website: "https://github.com/torusresearch/torus-embed",
 Projects: "Torus Wallet",
 ---
 <!--lang:en--> 
-test
+Embeds the Torus Wallet directly in your application via torus-embed. Exposes a Web3 Provider.
 <!--lang:es--] 
 test
 <!--lang:de--] 

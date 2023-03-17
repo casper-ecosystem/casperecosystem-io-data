@@ -4,7 +4,7 @@ Website: "https://github.com/casper-network/casper-node",
 Projects: "Casper Labs",
 ---
 <!--lang:en--> 
-test
+Casper node
 <!--lang:es--] 
 test
 <!--lang:de--] 

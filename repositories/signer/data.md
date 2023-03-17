@@ -4,7 +4,7 @@ Website: "https://github.com/casper-ecosystem/signer",
 Projects: "Casper Signer",
 ---
 <!--lang:en--> 
-test
+Browser plugin used to sign transactions for the Casper Network.
 <!--lang:es--] 
 test
 <!--lang:de--] 

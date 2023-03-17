@@ -4,7 +4,7 @@ Website: "https://github.com/XP-NETWORK/bridge-interface",
 Projects: "Xp.Network",
 ---
 <!--lang:en--> 
-test
+Bridge Interface
 <!--lang:es--] 
 test
 <!--lang:de--] 

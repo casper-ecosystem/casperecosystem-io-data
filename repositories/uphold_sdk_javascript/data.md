@@ -4,7 +4,7 @@ Website: "https://github.com/uphold/uphold-sdk-javascript",
 Projects: "Uphold",
 ---
 <!--lang:en--> 
-test
+Uphold SDK for JavaScript
 <!--lang:es--] 
 test
 <!--lang:de--] 

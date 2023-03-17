@@ -4,7 +4,7 @@ Website: "https://github.com/Stakedllc/eth-casper-pool",
 Projects: "Staked.US",
 ---
 <!--lang:en--> 
-test
+Staking pool for Casper FFG
 <!--lang:es--] 
 test
 <!--lang:de--] 

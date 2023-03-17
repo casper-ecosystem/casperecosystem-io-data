@@ -4,7 +4,7 @@ Website: "https://github.com/CasperDash/casperdash-client",
 Projects: "CasperDash",
 ---
 <!--lang:en--> 
-test
+Casper blockchain wallet
 <!--lang:es--] 
 test
 <!--lang:de--] 
