@@ -1,10 +1,10 @@
 ---
-Name: "casper_node",
-Website: "https://github.com/casper-network/casper-node",
+Name: "casperfyre_backend",
+Website: "https://github.com/ledgerleapllc/casperfyre-frontend",
 Projects: "Casper Blockchain",
 ---
 <!--lang:en--> 
-Casper node
+CasperFYRE Backend - Dispensory API interface for Casper mainnet
 <!--lang:es--] 
 test
 <!--lang:de--] 

@@ -1,7 +1,7 @@
 ---
 Name: "dao_contracts",
 Website: "https://github.com/make-software/dao-contracts",
-Projects: "Make Services",
+Projects: "DEVxDAO",
 ---
 <!--lang:en--> 
 Smart Contracts for the MVPR On-Chain Governance System on Casper

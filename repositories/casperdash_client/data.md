@@ -4,7 +4,7 @@ Website: "https://github.com/CasperDash/casperdash-client",
 Projects: "CasperDash",
 ---
 <!--lang:en--> 
-Casper blockchain wallet
+Casper blockchain wallet. A non-custodial wallet for Casper Blockchain.
 <!--lang:es--] 
 test
 <!--lang:de--] 

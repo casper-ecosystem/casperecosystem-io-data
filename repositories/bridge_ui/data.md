@@ -4,7 +4,7 @@ Website: "https://github.com/dotoracle/bridge-ui",
 Projects: "DotOracle",
 ---
 <!--lang:en--> 
-Bridge UI
+DotOracle's Bridge UI
 <!--lang:es--] 
 test
 <!--lang:de--] 
