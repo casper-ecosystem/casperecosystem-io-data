@@ -1,7 +1,7 @@
 ---
 Name: "casper_db_utils",
 Website: "https://github.com/casper-network/casper-db-utils",
-Projects: "Casper Labs",
+Projects: "Casper Blockchain",
 ---
 <!--lang:en--> 
 Utilities for working with databases of the Casper blockchain

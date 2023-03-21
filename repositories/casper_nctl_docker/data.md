@@ -1,7 +1,7 @@
 ---
 Name: "casper_nctl_docker",
 Website: "https://github.com/make-software/casper-nctl-docker",
-Projects: "Make Services",
+Projects: "Casper Blockchain",
 ---
 <!--lang:en--> 
 A Docker container that runs Casper NCTL as a service

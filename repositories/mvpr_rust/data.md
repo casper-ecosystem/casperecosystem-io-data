@@ -1,7 +1,7 @@
 ---
 Name: "mvpr_rust",
 Website: "https://github.com/DEVxDAO/MVPR-Rust",
-Projects: "DevXDao",
+Projects: "DEVxDAO",
 ---
 <!--lang:en--> 
 Implementation of MVPR in Rust for the Casper Network

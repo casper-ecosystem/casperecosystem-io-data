@@ -1,7 +1,7 @@
 ---
 Name: "casperfyre_frontend",
 Website: "https://github.com/ledgerleapllc/casperfyre-frontend",
-Projects: "LedgerLeap",
+Projects: "Casper Blockchain",
 ---
 <!--lang:en--> 
 CasperFYRE Frontend - Dispensory API interface for Casper mainnet
