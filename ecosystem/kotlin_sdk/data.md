@@ -14,14 +14,14 @@ Contract-Hashes-Test: "",
 ---
 <!--lang:en--> 
 Casper Kotlin SDK to interact with the Casper network
-<!--lang:es--] 
-
-<!--lang:de--] 
-
-<!--lang:fr--] 
-
-<!--lang:pl--] 
-
-<!--lang:uk--] 
-
-[!--lang:*-->  
+<!--lang:es--]
+Casper Kotlin SDK para interactuar con la red Casper
+<!--lang:de--]
+Casper Kotlin SDK zur Interaktion mit dem Casper-Netzwerk
+<!--lang:fr--]
+Casper Kotlin SDK pour interagir avec le réseau Casper
+<!--lang:pl--]
+Casper Kotlin SDK do interakcji z siecią Casper
+<!--lang:uk--]
+Casper Kotlin SDK для взаємодії з мережею Casper
+[!--lang:*-->
