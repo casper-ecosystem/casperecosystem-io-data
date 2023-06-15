@@ -2,7 +2,7 @@
 Grant-Number: "776",
 Name: "Mlem",
 Service-Provider: "",
-Status: "In progress",
+Status: "In review",
 Grant-Link: "https://portal.devxdao.com/app/proposal/776",
 Website: "",
 Grant-Size: "Small",
