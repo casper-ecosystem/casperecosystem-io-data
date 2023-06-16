@@ -13,15 +13,15 @@ Contract-Hashes-Main: "",
 Contract-Hashes-Test: "",
 ---
 <!--lang:en--> 
-
+TypeScript Casper Client SDK
 <!--lang:es--] 
-
+SDK de cliente Casper de TypeScript
 <!--lang:de--] 
-
+TypeScript Casper Client SDK
 <!--lang:fr--] 
-
+SDK client TypeScript Casper
 <!--lang:pl--] 
-
+Pakiet SDK klienta TypeScript Casper
 <!--lang:uk--] 
-
-[!--lang:*-->  
+TypeScript Casper Client SDK
+[!--lang:*-->

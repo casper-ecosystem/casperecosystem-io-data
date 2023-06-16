@@ -14,14 +14,14 @@ Contract-Hashes-Test: "",
 ---
 <!--lang:en--> 
 Casper Perl SDK to interact with the Casper network
-<!--lang:es--] 
-
-<!--lang:de--] 
-
-<!--lang:fr--] 
-
-<!--lang:pl--] 
-
-<!--lang:uk--] 
-
-[!--lang:*-->  
+<!--lang:es--]
+Casper Perl SDK para interactuar con la red Casper
+<!--lang:de--]
+Casper Perl SDK zur Interaktion mit dem Casper-Netzwerk
+<!--lang:fr--]
+Casper Perl SDK pour interagir avec le réseau Casper
+<!--lang:pl--]
+Casper Perl SDK do interakcji z siecią Casper
+<!--lang:uk--]
+Casper Perl SDK для взаємодії з мережею Casper
+[!--lang:*-->
