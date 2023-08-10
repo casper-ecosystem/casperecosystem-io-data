@@ -16,11 +16,10 @@ Contract-Hashes-Test: "hash-154ff59b5f9feec42d3a418058d66badcb2121dc3ffb2e3cf925
 CSPR.market is your ultimate destination for exploring/buying /selling NFTs on Casper Network.
 
 Highlights:
-
 - State of the Art UX & UI
 - Supports the brand new [Casper Wallet](https://casperwallet.io/)
 - Compatible with CEP-78 and CEP-47
-- Largest assortment of NFTs: Digital arts, in-game items, CSPR names, IPs and more.
+- Largest assortment of NFTs: Digital arts, in-game items, CSPR names, IPs and more
 - On-chain royalties
 - Exclusive listing of many projects
   
