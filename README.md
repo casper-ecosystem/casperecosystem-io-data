@@ -51,5 +51,5 @@ Please find the details in the process flow diagram below;
 
 
 ## Contribution guide
-We only accept contributions to the casperblockchain.io through GitHub. Contribute to the next release by submitting PRs (Pull Requests) to the main branch.
+We only accept contributions to the casperecosystem.io through GitHub. Contribute to the next release by submitting PRs (Pull Requests) to the main branch.
 
