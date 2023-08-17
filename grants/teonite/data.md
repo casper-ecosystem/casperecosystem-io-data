@@ -1,32 +1,50 @@
 ---
-Grant-Number: "774",
-Name: "GameSwift",
+Grant-Number: "N/A",
+Name: "Smart Contract Source Code Verification Service",
 Service-Provider: "",
 Status: "In progress",
-Grant-Link: "https://portal.devxdao.com/app/proposal/774",
-Website: "",
-Grant-Size: "Medium",
-Total-Milestones: "4",
-Current-Milestone: "M4",
-M1: "01.03.2023","In review",
-M2: "15.03.2023","In review",
-M3: "15.04.2023","In review",
-M4: "30.04.2023","In progress",
+Grant-Link: "",
+Website: "https://teonite.com/",
+Grant-Size: "Large",
+Total-Milestones: "5",
+Current-Milestone: "M1",
+M1: "11.09.2023","To do",
+M2: "25.09.2023","To do",
+M3: "02.10.2023","To do",
+M4: "14.08.2023","To do",
+M5: "21.08.2023","To do",
 Twitter: "",
 Public-Project-Chat: "",
 Casper-PM: "https://github.com/piotr-dziubecki",
 Project-GitHub-Repo: "",
 ---
 <!--lang:en--> 
-GameSwift is one-stop shop gaming ecosystem allowing gamers to play web3 games without having to know how to use blockchain. GameSwift Platform delivers a user-friendly environment where the player doesn't need to know how to handle blockchain operations as they are all processed underneath without the need for their intervention.
+CSPR Live Block Explorer (or in fact any other Casper open-source block explorers) do not implement any services for smart contracts source code and deployment validation or smart contract source code browsing and interacting.
+Our aim is to create: 
+a) source code storage, validation, and browsing service that will expose an API for interacting with any service that would like to incorporate this functionality (CSPR Live or any other block explorer) and will have enterprise-grade security (with Hardware Security Modules - HSM - proposed: Nitro HSM 2)
+b) distributed build system supporting a defined library of Rust compilers and casper-contract smart contract library versions in order to quickly produce WASM builds for further validation
+c) extend casper-client (as a pull request) with functionalities for submitting the source code to the validation service
+d) example web service (and React components library) - that will use the validation service and based on the submitted deploy hash can state if the deployment is validated - if so, enable to browsing the validated deploy source code
+All milestones are in detailed outlined (and calculated in terms of boudges and schedule) based on the following Work Brakedown Structure:
+https://docs.google.com/spreadsheets/d/14FUmM3eBE2Gx10eGbtxVqkH7nC8QUEGN3KglSJdru1U
+Smart Contract source code validation and browsing is a core and fundamental functionality in any block explorer (already implemented in various blockchains) - but Casper is lacking it.
+The deployment code browsing is also critical for end users in terms of building trust, transparency, and peace of mind for anyone that would like to interact with the deployed smart contract - as they can read the code.
+But there also is a huge opportunity in building a service that will have access to all smart contracts source codes (and validations), that will be the foundation for future additional services, like:
+contract history (changes over time) view - what has changed over a selected time span
+developer validation service - since Casper is an enterprise blockchain it would be of much value to implement the functionality of developer validation, exposing not only the source code validation but also detailed information about the developer who is responsible for the deployment (and source code).
+Developer validation functionality can be simple - eg. enable the developer to sign the validated source code with the same private key (as the deployment) matching and verifying that the deployment is done by the same developer that submitted the validation - but also can implement KYC for developer validation, organization validation - enabling potential premium services like get detailed information of developer/organization responsible for the deployment
+AI/Machine Learning service for analyzing the source code to find  scams and suspicious smart contracts (based on source code, and reports from security companies that did the code validation and testing) 
+data statistics and analytics on the source code
+premium validation services that could expose security analysis (which the security researcher has  audited the source code, and access to security report data)
+
 <!--lang:es--] 
-GameSwift es un ecosistema de juegos de ventanilla única que permite a los jugadores jugar juegos web3 sin tener que saber cómo usar blockchain. GameSwift Platform ofrece un entorno fácil de usar en el que el jugador no necesita saber cómo manejar las operaciones de la cadena de bloques, ya que todas se procesan por debajo sin necesidad de su intervención.
+
 <!--lang:de--] 
-GameSwift ist ein One-Stop-Shop-Gaming-Ökosystem, das es Spielern ermöglicht, Web3-Spiele zu spielen, ohne über Blockchain-Kenntnisse verfügen zu müssen. Die GameSwift-Plattform bietet eine benutzerfreundliche Umgebung, in der der Spieler nicht wissen muss, wie er mit Blockchain-Vorgängen umgeht, da diese alle darunter verarbeitet werden, ohne dass sein Eingreifen erforderlich ist.
+
 <!--lang:fr--] 
-GameSwift est un écosystème de jeu à guichet unique permettant aux joueurs de jouer à des jeux Web3 sans avoir à savoir comment utiliser la blockchain. GameSwift Platform offre un environnement convivial où le joueur n'a pas besoin de savoir comment gérer les opérations de la blockchain car elles sont toutes traitées en dessous sans avoir besoin de leur intervention.
+
 <!--lang:pl--] 
-GameSwift to kompleksowy ekosystem gier umożliwiający graczom granie w gry web3 bez konieczności korzystania z blockchain. Platforma GameSwift zapewnia przyjazne dla użytkownika środowisko, w którym gracz nie musi wiedzieć, jak obsługiwać operacje blockchain, ponieważ wszystkie są przetwarzane pod spodem bez potrzeby ich interwencji.
-<!--lang:uk--] 
-GameSwift — це універсальна ігрова екосистема, яка дозволяє геймерам грати в ігри web3, не знаючи, як використовувати блокчейн. Платформа GameSwift забезпечує зручне середовище, де гравцеві не потрібно знати, як обробляти операції блокчейну, оскільки всі вони обробляються всередині без необхідності його втручання.
+
+<!--lang:uk--]
+
 [!--lang:*-->  
