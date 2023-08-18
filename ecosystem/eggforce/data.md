@@ -8,7 +8,7 @@ Category: "Collectible Project",
 Application-Category: "Gamified NFTs",
 Tags: "NFT","Game","Collectible",
 Contact: "",
-Project-Status: "Not Live - In Development",
+Project-Status: "Live - Active",
 Contract-Hashes-Main: "",
 Contract-Hashes-Test: "",
 ---

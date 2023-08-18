@@ -8,7 +8,7 @@ Category: "Wallet ",
 Application-Category: "",
 Tags: "Wallet",
 Contact: "",
-Project-Status: "Not Live - In Development",
+Project-Status: "Live - Active",
 Contract-Hashes-Main: "",
 Contract-Hashes-Test: "",
 ---
