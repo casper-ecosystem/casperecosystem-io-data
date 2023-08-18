@@ -6,7 +6,7 @@ Architecture: "User & Access Layer",
 Segment: "NFT",
 Category: "Marketplace",
 Application-Category: "",
-Tags: "NFT",
+Tags: "NFT","Collectible", "Game"
 Contact: "",
 Project-Status: "Not Live - In Development",
 Contract-Hashes-Main: "",

@@ -6,7 +6,7 @@ Architecture: "User & Access Layer",
 Segment: "DeFi",
 Category: "Payment Integration",
 Application-Category: "",
-Tags: "DeFi",
+Tags: "DeFi","DEX"
 Contact: "dev@rengo.capital",
 Project-Status: "Not Live - In Development",
 Contract-Hashes-Main: "",
