@@ -6,7 +6,7 @@ Architecture: "User & Access Layer",
 Segment: "DeFi",
 Category: "Wallet ",
 Application-Category: "",
-Tags: "Wallets",
+Tags: "Custody","CEX"
 Contact: "",
 Project-Status: "Live - Active",
 Contract-Hashes-Main: "",

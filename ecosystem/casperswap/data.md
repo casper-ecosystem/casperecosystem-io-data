@@ -1,14 +1,14 @@
 ---
 Name: "CasperSwap",
-Website: "https://casperswap.xyz/",
+Website: "https://app.casperswap.xyz/swap",
 Twitter: "https://twitter.com/casperswap",
 Architecture: "User & Access Layer",
 Segment: "DeFi",
 Category: "Payment Integration",
 Application-Category: "",
-Tags: "DeFi",
+Tags: "DeFi","DEX"
 Contact: "dev@rengo.capital",
-Project-Status: "Not Live - In Development",
+Project-Status: "Live - Active",
 Contract-Hashes-Main: "",
 Contract-Hashes-Test: "",
 ---
