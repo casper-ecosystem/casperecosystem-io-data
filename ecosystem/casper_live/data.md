@@ -6,7 +6,7 @@ Architecture: "User & Access Layer",
 Segment: "Infrastructure",
 Category: "Infrastructure",
 Application-Category: "",
-Tags: "Explorer","Tool"
+Tags: "Explorer,Tool",
 Contact: "hello@make.services",
 Project-Status: "Live - Active",
 Contract-Hashes-Main: "",

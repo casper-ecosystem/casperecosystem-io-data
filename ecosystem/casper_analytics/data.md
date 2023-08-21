@@ -6,7 +6,7 @@ Architecture: "User & Access Layer",
 Segment: "Infrastructure",
 Category: "Infrastructure",
 Application-Category: "",
-Tags: "Explorer","Tool"
+Tags: "Explorer,Tool",
 Contact: "hello@caspercommunity.io",
 Project-Status: "Live - Active",
 Contract-Hashes-Main: "01c6d11a0fa563f8cc3ed5e967d5901c80004bdcde6250ddea18af2b4eae0a902d",
