@@ -6,7 +6,7 @@ Architecture: "Partners",
 Segment: "NFT",
 Category: "NFT",
 Application-Category: "",
-Tags: "NFT","Marketplace"
+Tags: "NFT,Marketplace",
 Contact: "",
 Project-Status: "Live - Active",
 Contract-Hashes-Main: "31cc023b17c903a963ec60eab96a60f1fa37cb74b4b3bafc91a441e0e9d70f97,0b0508bf0f4cfd0689cbfa1e65a1ad5a3732c36ee2928f9d78701ebdc8983825",
