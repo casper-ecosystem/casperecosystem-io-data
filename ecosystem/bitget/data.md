@@ -1,5 +1,5 @@
 ---
-Name: "BitGet",
+Name: "Bitget",
 Website: "https://www.bitget.com/",
 Twitter: "https://twitter.com/bitgetglobal",
 Architecture: "Layer 1 Operations",
