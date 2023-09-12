@@ -1,55 +1,58 @@
 ---
-Grant-Number: "707",
-Name: "Minteandome NFT",
+Grant-Number: "011",
+Name: "Helix Markets",
 Service-Provider: "",
 Status: "In progress",
-Grant-Link: "https://portal.devxdao.com/app/proposal/707",
-Website: "https://minteando.me/",
-Grant-Size: "TBA",
-Total-Milestones: "3",
+Grant-Link: "",
+Website: "https://www.helixmarkets.io/",
+Grant-Size: "Medium",
+Total-Milestones: "2",
 Current-Milestone: "M1",
-M1: "10.04.2023","Complete",
-M2: "15.05.2023","Complete",
-M3: "15.06.2023","In progress",
-Twitter: "https://twitter.com/minteandome",
+M1: "19.07.2023","In Progress",
+M2: "01.11.2023","Not Started",
+Twitter: "https://twitter.com/HelixMarkets",
 Public-Project-Chat: "",
-Casper-PM: "https://github.com/devendran-m",
+Casper-PM: "https://github.com/Marjan-sha",
 Project-GitHub-Repo: "",
 ---
 <!--lang:en--> 
-Minteandome empowers NFTs by addressing the problems like high-entry barrier for non technical persons, temporary and economic cost to create smart contracts of NFTs and constraints in creating NFT-collections and smart contracts with custom functionalities.
+Helix's decentralized exchange infrastructure combines non-custodial, on-chain settlement with an
+off-chain low-latency matching engine using an order book. This allows us to deliver an
+institutional-grade, liquid, and low slippage trading experience for the DeFi world. Through the use of
+ECDSA technology we are able to integrate any protocol supporting ECDSA signatures such as Bitcoin,
+Ethereum, Casper etc.
+The specific use case for Casper is the integration with the Metacask marketplace (or
+any other marketplace on casper looking to integrate payments). Where Helix markets would enable
+the direct purchase of Casks via other cryptocurrencies by acting as a payments processor - C2C
+payments.
 
-Minteandome's solution to the recurring problems is a low-code and no-code environment for the creation, management and optimization of NFT collections, with advanced features, and customized to business models from different sectors.
-
-This project aims to integrate Casper Blockchain's CEP-78 Enhanced NFT and offer a low-code and no-code environment for the users to create and manage CEP-78 features based NFTs.
 <!--lang:es--] 
-Minteandome empodera a los NFT al abordar problemas como la barrera de entrada alta para personas no técnicas, el costo temporal y económico para crear contratos inteligentes de NFT y las limitaciones en la creación de colecciones de NFT y contratos inteligentes con funcionalidades personalizadas. 
-
-La solución de Minteandome a los problemas recurrentes es un bajo -entorno de código y no código para la creación, gestión y optimización de colecciones NFT, con funciones avanzadas y personalizado para modelos de negocio de diferentes sectores. 
-
-Este proyecto tiene como objetivo integrar el NFT mejorado CEP-78 de Casper Blockchain y ofrecer un código bajo y Entorno sin código para que los usuarios creen y administren NFT basados ​​en características de CEP-78. 
+La infraestructura de intercambio descentralizada de Helix combina la liquidación en la cadena sin custodia con un motor de casación de baja latencia fuera de la cadena que utiliza un libro de órdenes.
+de baja latencia que utiliza un libro de órdenes. Esto nos permite ofrecer
+institucional, líquida y de bajo deslizamiento para el mundo DeFi. Mediante el uso de la tecnología
+tecnología ECDSA podemos integrar cualquier protocolo que admita firmas ECDSA, como Bitcoin,
+Ethereum, Casper, etc.
+El caso de uso específico para Casper es la integración con el mercado Metacask (o
+cualquier otro mercado en Casper que desee integrar pagos). Donde los mercados Helix permitirían
+la compra directa de Casks a través de otras criptomonedas actuando como procesador de pagos - C2C
+pagos. 
 <!--lang:de--] 
-Minteandome stärkt NFTs, indem es Probleme wie hohe Eintrittsbarrieren für technisch nicht versierte Personen, temporäre und wirtschaftliche Kosten für die Erstellung intelligenter NFT-Verträge und Einschränkungen bei der Erstellung von NFT-Sammlungen und intelligenten Verträgen mit benutzerdefinierten Funktionen angeht. 
-
-Minteandomes Lösung für die wiederkehrenden Probleme ist niedrig -Code- und No-Code-Umgebung für die Erstellung, Verwaltung und Optimierung von NFT-Sammlungen, mit erweiterten Funktionen und angepasst an Geschäftsmodelle aus verschiedenen Sektoren. 
-
-Dieses Projekt zielt darauf ab, den CEP-78 Enhanced NFT von Casper Blockchain zu integrieren und eine Low-Code- und No-Code-Umgebung für Benutzer zum Erstellen und Verwalten von NFTs auf Basis von CEP-78-Funktionen.
+Die dezentrale Börseninfrastruktur von Helix kombiniert eine nicht-kustodiale On-Chain-Abwicklung mit einer
+Off-Chain-Matching-Engine mit niedriger Latenz unter Verwendung eines Orderbuchs. Dies ermöglicht uns die Bereitstellung eines
+liquiden und schlupffreien Handel auf institutionellem Niveau für die DeFi-Welt. Durch den Einsatz der
+ECDSA-Technologie sind wir in der Lage, jedes Protokoll zu integrieren, das ECDSA-Signaturen unterstützt, wie z.B. Bitcoin,
+Ethereum, Casper usw.
+Der spezifische Anwendungsfall für Casper ist die Integration mit dem Metacask-Marktplatz (oder
+jedem anderen Marktplatz auf Casper, der Zahlungen integrieren möchte). Wo Helix-Märkte ermöglichen würden
+den direkten Kauf von Casper über andere Kryptowährungen, indem er als Zahlungsabwickler fungiert - C2C
+Zahlungen.
 <!--lang:fr--] 
-Minteandome habilite les NFT en résolvant les problèmes tels que la barrière d'entrée élevée pour les personnes non techniques, le coût temporaire et économique pour créer des contrats intelligents de NFT et les contraintes dans la création de collections NFT et de contrats intelligents avec des fonctionnalités personnalisées. 
-
-La solution de Minteandome aux problèmes récurrents est un faible -environnement codé et no-code pour la création, la gestion et l'optimisation des collections NFT, avec des fonctionnalités avancées et adaptées aux modèles commerciaux de différents secteurs.
-
-Ce projet vise à intégrer le CEP-78 Enhanced NFT de Casper Blockchain et à offrir un low-code et environnement sans code permettant aux utilisateurs de créer et de gérer des NFT basés sur les fonctionnalités CEP-78.
+L'infrastructure d'échange décentralisée d'Helix associe un règlement non conservateur sur la chaîne à un moteur d'appariement hors chaîne à faible latence utilisant un carnet d'ordres. de la chaîne avec un moteur d'appariement hors chaîne à faible latence utilisant un carnet d'ordres. Cela nous permet d'offrir une expérience de négociation de qualité institutionnelle, liquide et à faible glissement pour le monde DeFi. Grâce à l'utilisation de la technologie ECDSA, nous sommes en mesure d'intégrer tout protocole prenant en charge les signatures ECDSA, comme Bitcoin, Ethereum, Casper, etc, Ethereum, Casper, etc.
+Le cas d'utilisation spécifique pour Casper est l'intégration avec la place de marché Metacask (ou toute autre place de marché sur Casper cherchant à s'intégrer). toute autre place de marché sur Casper souhaitant intégrer des paiements). Là où les marchés Helix permettraient l'achat direct de Casks via d'autres crypto-monnaies en agissant en tant que processeur de paiement - C2C paiements.
 <!--lang:pl--] 
-Minteandome wzmacnia NFT, rozwiązując problemy, takie jak wysoka bariera wejścia dla osób nietechnicznych, tymczasowe i ekonomiczne koszty tworzenia inteligentnych kontraktów NFT oraz ograniczenia w tworzeniu kolekcji NFT i inteligentnych kontraktów z niestandardowymi funkcjami. 
-
-Rozwiązanie Minteandome dla powtarzających się problemów jest niskie -kodowane i niekodowane środowisko do tworzenia, zarządzania i optymalizacji kolekcji NFT, z zaawansowanymi funkcjami i dostosowanymi do modeli biznesowych z różnych sektorów. 
-
-Ten projekt ma na celu integrację CEP-78 Enhanced NFT firmy Casper Blockchain i zaoferowanie niskokodowego i środowisko bez kodu dla użytkowników do tworzenia NFT opartych na funkcjach CEP-78 i zarządzania nimi.
+Zdecentralizowana infrastruktura giełdowa Helix łączy w sobie bezobsługowe rozliczanie w łańcuchu z mechanizmem dopasowywania o niskim opóźnieniu poza łańcuchem przy użyciu księgi zamówień. Pozwala nam to na dostarczanie instytucjonalnych, płynnych i niskopoślizgowych doświadczeń handlowych dla świata DeFi. Dzięki zastosowaniu technologii ECDSA jesteśmy w stanie zintegrować dowolny protokół obsługujący podpisy ECDSA, taki jak Bitcoin, Ethereum, Casper itp.
+Konkretnym przypadkiem użycia dla Casper jest integracja z rynkiem Metacask (lub jakimkolwiek innym rynkiem na Casper, który chce zintegrować płatności). Tam, gdzie rynki Helix umożliwiłyby bezpośredni zakup Casks za pośrednictwem innych kryptowalut, działając jako procesor płatności - płatności C2C.
 <!--lang:uk--] 
-Minteandome розширює можливості NFT, вирішуючи такі проблеми, як високий бар’єр входу для нетехнічних спеціалістів, тимчасові та економічні витрати на створення смарт-контрактів NFT і обмеження у створенні NFT-колекцій і смарт-контрактів із спеціальними функціями. 
-
-Рішення Minteandome для повторюваних проблем є низьким. -кодове та безкодове середовище для створення, керування й оптимізації колекцій NFT із розширеними функціями та адаптованим до бізнес-моделей із різних секторів. 
-
-Цей проект має на меті інтегрувати CEP-78 Enhanced NFT від Casper Blockchain і запропонувати низький код і середовище без коду для створення та керування NFT на основі функцій CEP-78
+Децентралізована біржова інфраструктура Helix поєднує некастодіальні розрахунки в мережі з позамережевим механізмом узгодження з низькою затримкою за допомогою книги замовлень. Це дозволяє нам надавати інституційний рівень, ліквідність і низьке прослизання для торгівлі в світі DeFi. Завдяки використанню технології ECDSA ми можемо інтегрувати будь-який протокол, що підтримує підписи ECDSA, такі як Bitcoin, Ethereum, Casper тощо.
+Конкретним випадком використання Casper є інтеграція з ринком Metacask (або будь-яким іншим ринком на Casper, який бажає інтегрувати платежі). Там, де ринки Helix дозволять безпосередньо купувати Casks за інші криптовалюти, виступаючи в ролі платіжного процесора - платежі C2C.
 [!--lang:*-->  
