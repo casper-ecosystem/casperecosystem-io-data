@@ -8,7 +8,11 @@ Website: "https://vchained.com/",
 Grant-Size: "Medium",
 Total-Milestones: "5",
 Current-Milestone: "M1",
-M1: "09.08.2023","In Progress",
+M1: "09.08.2023 - 15.10.2023","In Progress",
+M2: "15.10.2023 - 20.11.2023" ,"Not Started"
+M3: "20.11.2023 - 20.12.2023" ,"Not Started"
+M4: "20.12.2023 - 25.01.2024" ,"Not Started"
+M5: "25.01.2023 - 18.02.2024" ,"Not Started"
 Twitter: "https://twitter.com/votanventures",
 Public-Project-Chat: "",
 Casper-PM: "https://github.com/Marjan-sha",
