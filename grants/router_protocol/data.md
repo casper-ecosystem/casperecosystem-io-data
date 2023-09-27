@@ -14,7 +14,7 @@ M3: "31.08.2024","To Do",
 Twitter: "https://twitter.com/cryptoman_ram",
 Public-Project-Chat: "",
 Casper-PM: "https://github.com/Adrian-Wrona",
-Project-GitHub-Repo: "https://github.com/router-protocol",
+Project-GitHub-Repo: "",
 ---
 <!--lang:en--> 
 Router's CrossTalk is an extensible cross-chain framework that enables seamless state transitions across multiple chains. In simple terms, this library leverages Router's infrastructure to allow contracts on one chain to communicate with contracts deployed on some other chain. The library is structured in a way that it can be integrated seamlessly into your development environment to allow for cross-chain message passing without disturbing other parts of your product.
