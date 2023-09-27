@@ -25,7 +25,7 @@ a) source code storage, validation, and browsing service that will expose an API
 b) distributed build system supporting a defined library of Rust compilers and casper-contract smart contract library versions in order to quickly produce WASM builds for further validation
 c) extend casper-client (as a pull request) with functionalities for submitting the source code to the validation service
 d) example web service (and React components library) - that will use the validation service and based on the submitted deploy hash can state if the deployment is validated - if so, enable to browsing the validated deploy source code
-All milestones are in detailed outlined (and calculated in terms of boudges and schedule) based on the following Work Brakedown Structure:
+All milestones are in detailed outlined (and calculated in terms of budget and schedule) based on the following Work Breakdown Structure:
 https://docs.google.com/spreadsheets/d/14FUmM3eBE2Gx10eGbtxVqkH7nC8QUEGN3KglSJdru1U
 Smart Contract source code validation and browsing is a core and fundamental functionality in any block explorer (already implemented in various blockchains) - but Casper is lacking it.
 The deployment code browsing is also critical for end users in terms of building trust, transparency, and peace of mind for anyone that would like to interact with the deployed smart contract - as they can read the code.
