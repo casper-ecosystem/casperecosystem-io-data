@@ -1,11 +1,10 @@
 cspr_live,
-caspertigers,
 metacask,
 simplex,
-metalpay,
 scansper,
 okx,
 dotoracle,
 changenow,
 nownodes,
-simpleswap
+ipwe,
+xprize
