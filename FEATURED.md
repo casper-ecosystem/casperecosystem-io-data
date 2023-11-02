@@ -9,3 +9,5 @@ dotoracle,
 changenow,
 nownodes,
 simpleswap
+ipwe
+xprize
