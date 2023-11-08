@@ -1,5 +1,5 @@
 --- 
-Name: "Make Services", 
+Name: "MAKE Services", 
 Website: "https://make.services/", 
 OrgSize: "",
 Specializations: "",
