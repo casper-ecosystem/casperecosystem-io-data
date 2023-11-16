@@ -1,10 +1,10 @@
 ---
 Grant-Number: "776",
-Name: "Mlem",
+Name: "Melem",
 Service-Provider: "",
 Status: "In review",
 Grant-Link: "https://portal.devxdao.com/app/proposal/776",
-Website: "",
+Website: "https://melem.io/",
 Grant-Size: "Small",
 Total-Milestones: "2",
 Current-Milestone: "M1",
@@ -16,7 +16,7 @@ Casper-PM: "https://github.com/Marjan-sha",
 Project-GitHub-Repo: "",
 ---
 <!--lang:en--> 
-Mlem is building the first enterprise-grade platform for creating Web3-powered brand membership programs on Casper Network.
+Melem is building the first enterprise-grade platform for creating Web3-powered brand membership programs on Casper Network.
 
 Brands need to improve the loyalty and long term value (LTV) to offset the recent increase in acquisition costs. Current Web2 solutions for expanding LTV are not enough to offset the increase in customer acquisition cost.
 <!--lang:es--] 
