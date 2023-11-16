@@ -1,18 +1,16 @@
 ---
-Grant-Number: "",
+Grant-Number: "N/A",
 Name: "Layer 3.0 - Trace Tech",
 Service-Provider: "",
-Status: "In progress",
+Status: "To Do",
 Grant-Link: "",
 Website: "",
 Grant-Size: "Medium",
-Total-Milestones: "",
-Current-Milestone: "",
-M1: "","",
-M2: "","",
-M3: "","",
-M4: "","",
-M5: "","",
+Total-Milestones: "3",
+Current-Milestone: "M1",
+M1: "05.02.2024","To do",
+M2: "01.07.2024","To do",
+M3: "16.12.2024","To do",
 Twitter: "",
 Public-Project-Chat: "",
 Casper-PM: "https://github.com/devendran-m",
@@ -23,7 +21,10 @@ The main goal of the project is to offer a new product to HEMAV's current custom
 
 This product must cover the needs for traceability and certification of the origin of agricultural products during the import process to Europe. 
 
-The aim of this project is to provide a layer of decentralization and transparency to the process carried out by HEMAV, and to make this process unalterable and externally consultable.
+The aim of this project is to provide a layer of decentralization and transparency to the process carried out by HEMAV, and to make this process unalterable and externally consultable. For this reason, it is necessary to have the support of a blockchain partner. 
+
+On the other hand, the product also generates a certificate, and this can also be included in the blockchain as NFT.
+
 <!--lang:es--] 
 <!--lang:de--] 
 <!--lang:fr--] 
