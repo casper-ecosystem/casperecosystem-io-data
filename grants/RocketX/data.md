@@ -1,58 +1,118 @@
 ---
-Grant-Number: "011",
-Name: "Helix Markets",
+Grant-Number: "021",
+Name: "Power Interoperability of Casper Network via RocketX",
 Service-Provider: "",
 Status: "In progress",
 Grant-Link: "",
-Website: "https://www.helixmarkets.io/",
-Grant-Size: "Medium",
+Website: "https://www.rocketx.exchange/",
+Grant-Size: "Small",
 Total-Milestones: "2",
 Current-Milestone: "M1",
-M1: "19.07.2023","In Progress",
-M2: "01.11.2023","Not Started",
-Twitter: "https://twitter.com/HelixMarkets",
+M1: "20.11.2023","In Review",
+M2: "10.12.2023","In Progress",
+Twitter: "https://twitter.com/RocketXexchange",
 Public-Project-Chat: "",
 Casper-PM: "https://github.com/Marjan-sha",
 Project-GitHub-Repo: "",
 ---
 <!--lang:en--> 
-Helix's decentralized exchange infrastructure combines non-custodial, on-chain settlement with an
-off-chain low-latency matching engine using an order book. This allows us to deliver an
-institutional-grade, liquid, and low slippage trading experience for the DeFi world. Through the use of
-ECDSA technology we are able to integrate any protocol supporting ECDSA signatures such as Bitcoin,
-Ethereum, Casper etc.
-The specific use case for Casper is the integration with the Metacask marketplace (or
-any other marketplace on casper looking to integrate payments). Where Helix markets would enable
-the direct purchase of Casks via other cryptocurrencies by acting as a payments processor - C2C
-payments.
+RocketX is the go-to platform for seamlessly transferring digital assets between 200+ blockchains like
+Btc, Eth, Solana, Cosmos, etc via a single UI/API.
+We simplify access to $100B+ liquidity by aggregating 300+ DEXS & all leading CEXs.
+We help users compare prices and get the best rates with every on-swap & cross-chain swap
+
+Developer Grants Received from:
+Polygon Chain
+Aptos Chain
+TENET Mainnet
+Microvision Chain
+
+We at RocketX will be working to support the Casper Network on https://RocketX.exchange to improve
+interoperability with all other leading networks to drive mass adoption of the Network.
+With Casper Network support on RocketX, users will be able to swap from all leading networks we
+support like BTC, ETH, Cosmos, Tron, Solana etc to $CSPR on Casper Network
 
 <!--lang:es--] 
-La infraestructura de intercambio descentralizada de Helix combina la liquidación en la cadena sin custodia con un motor de casación de baja latencia fuera de la cadena que utiliza un libro de órdenes.
-de baja latencia que utiliza un libro de órdenes. Esto nos permite ofrecer
-institucional, líquida y de bajo deslizamiento para el mundo DeFi. Mediante el uso de la tecnología
-tecnología ECDSA podemos integrar cualquier protocolo que admita firmas ECDSA, como Bitcoin,
-Ethereum, Casper, etc.
-El caso de uso específico para Casper es la integración con el mercado Metacask (o
-cualquier otro mercado en Casper que desee integrar pagos). Donde los mercados Helix permitirían
-la compra directa de Casks a través de otras criptomonedas actuando como procesador de pagos - C2C
-pagos. 
+ RocketX es la plataforma para transferir activos digitales sin problemas entre más de 200 blockchains como
+Btc, Eth, Solana, Cosmos, etc. a través de una única interfaz de usuario/API.
+Simplificamos el acceso a más de 100.000 millones de dólares de liquidez agregando más de 300 DEXS y todos los CEX líderes.
+Ayudamos a los usuarios a comparar precios y obtener las mejores tarifas con cada swap on-swap y cross-chain.
+
+Subvenciones para desarrolladores recibidas de:
+Polygon Chain
+Cadena Aptos
+TENET Mainnet
+Cadena Microvision
+
+En RocketX trabajaremos para apoyar a la red Casper en https://RocketX.exchange para mejorar la interoperabilidad con todas las demás redes líderes y así impulsar la adopción masiva de la red.
+interoperabilidad con todas las demás redes líderes para impulsar la adopción masiva de la Red.
+Con el soporte de Casper Network en RocketX, los usuarios podrán intercambiar desde todas las redes líderes que
+como BTC, ETH, Cosmos, Tron, Solana, etc. a $CSPR en Casper Network.
+
 <!--lang:de--] 
-Die dezentrale Börseninfrastruktur von Helix kombiniert eine nicht-kustodiale On-Chain-Abwicklung mit einer
-Off-Chain-Matching-Engine mit niedriger Latenz unter Verwendung eines Orderbuchs. Dies ermöglicht uns die Bereitstellung eines
-liquiden und schlupffreien Handel auf institutionellem Niveau für die DeFi-Welt. Durch den Einsatz der
-ECDSA-Technologie sind wir in der Lage, jedes Protokoll zu integrieren, das ECDSA-Signaturen unterstützt, wie z.B. Bitcoin,
-Ethereum, Casper usw.
-Der spezifische Anwendungsfall für Casper ist die Integration mit dem Metacask-Marktplatz (oder
-jedem anderen Marktplatz auf Casper, der Zahlungen integrieren möchte). Wo Helix-Märkte ermöglichen würden
-den direkten Kauf von Casper über andere Kryptowährungen, indem er als Zahlungsabwickler fungiert - C2C
-Zahlungen.
+RocketX ist die erste Plattform für den nahtlosen Transfer von digitalen Vermögenswerten zwischen 200+ Blockchains wie
+Btc, Eth, Solana, Cosmos, etc. über eine einzige UI/API.
+Wir vereinfachen den Zugang zu $100B+ Liquidität, indem wir 300+ DEXS und alle führenden CEXs zusammenführen.
+Wir helfen Nutzern, Preise zu vergleichen und die besten Preise bei jedem On-Swap & Cross-Chain-Swap zu erhalten.
+
+Entwicklerzuschüsse erhalten von:
+Polygon-Kette
+Aptos-Kette
+TENET Hauptnetz
+Microvision-Kette
+
+Wir bei RocketX werden daran arbeiten, das Casper Network auf https://RocketX.exchange zu unterstützen, um die
+Interoperabilität mit allen anderen führenden Netzwerken zu verbessern, um die Massenakzeptanz des Netzwerks zu fördern.
+Mit der Unterstützung des Casper-Netzwerks auf RocketX werden die Nutzer in der Lage sein, von allen führenden Netzwerken, die wir unterstützen, zu tauschen.
+wie BTC, ETH, Cosmos, Tron, Solana usw. in $CSPR auf dem Casper Network
+
 <!--lang:fr--] 
-L'infrastructure d'échange décentralisée d'Helix associe un règlement non conservateur sur la chaîne à un moteur d'appariement hors chaîne à faible latence utilisant un carnet d'ordres. de la chaîne avec un moteur d'appariement hors chaîne à faible latence utilisant un carnet d'ordres. Cela nous permet d'offrir une expérience de négociation de qualité institutionnelle, liquide et à faible glissement pour le monde DeFi. Grâce à l'utilisation de la technologie ECDSA, nous sommes en mesure d'intégrer tout protocole prenant en charge les signatures ECDSA, comme Bitcoin, Ethereum, Casper, etc, Ethereum, Casper, etc.
-Le cas d'utilisation spécifique pour Casper est l'intégration avec la place de marché Metacask (ou toute autre place de marché sur Casper cherchant à s'intégrer). toute autre place de marché sur Casper souhaitant intégrer des paiements). Là où les marchés Helix permettraient l'achat direct de Casks via d'autres crypto-monnaies en agissant en tant que processeur de paiement - C2C paiements.
+RocketX est la plateforme de référence pour le transfert transparent d'actifs numériques entre plus de 200 blockchains telles que
+Btc, Eth, Solana, Cosmos, etc. via une interface utilisateur/API unique.
+Nous simplifions l'accès à une liquidité de plus de 100 milliards de dollars en agrégeant plus de 300 DEXS et tous les principaux CEX.
+Nous aidons les utilisateurs à comparer les prix et à obtenir les meilleurs taux pour chaque swap on-swap et cross-chain.
+
+Subventions aux développeurs reçues de :
+Chaîne Polygon
+Chaîne Aptos
+TENET Mainnet
+Chaîne Microvision
+
+Chez RocketX, nous nous efforcerons de soutenir le réseau Casper sur https://RocketX.exchange afin d'améliorer l'interopérabilité avec tous les autres réseaux de premier plan pour favoriser l'adoption massive du réseau.
+l'interopérabilité avec tous les autres réseaux de premier plan afin de favoriser l'adoption massive du réseau.
+Avec la prise en charge du réseau Casper par RocketX, les utilisateurs seront en mesure d'échanger avec tous les principaux réseaux que nous prenons en charge, tels que BTC, ETH, Microvision, etc.
+comme BTC, ETH, Cosmos, Tron, Solana, etc. vers $CSPR sur le réseau Casper.
+
 <!--lang:pl--] 
-Zdecentralizowana infrastruktura giełdowa Helix łączy w sobie bezobsługowe rozliczanie w łańcuchu z mechanizmem dopasowywania o niskim opóźnieniu poza łańcuchem przy użyciu księgi zamówień. Pozwala nam to na dostarczanie instytucjonalnych, płynnych i niskopoślizgowych doświadczeń handlowych dla świata DeFi. Dzięki zastosowaniu technologii ECDSA jesteśmy w stanie zintegrować dowolny protokół obsługujący podpisy ECDSA, taki jak Bitcoin, Ethereum, Casper itp.
-Konkretnym przypadkiem użycia dla Casper jest integracja z rynkiem Metacask (lub jakimkolwiek innym rynkiem na Casper, który chce zintegrować płatności). Tam, gdzie rynki Helix umożliwiłyby bezpośredni zakup Casks za pośrednictwem innych kryptowalut, działając jako procesor płatności - płatności C2C.
+RocketX to platforma do płynnego przesyłania zasobów cyfrowych między ponad 200 łańcuchami bloków, takimi jak
+Btc, Eth, Solana, Cosmos itp. za pośrednictwem jednego interfejsu użytkownika/API.
+Upraszczamy dostęp do ponad 100 mld USD płynności poprzez agregację ponad 300 DEXS i wszystkich wiodących CEX.
+Pomagamy użytkownikom porównywać ceny i uzyskiwać najlepsze stawki przy każdym swapie on-swap i cross-chain.
+
+Dotacje dla deweloperów otrzymane od:
+Polygon Chain
+Aptos Chain
+TENET Mainnet
+Microvision Chain
+
+W RocketX będziemy pracować nad wsparciem Casper Network na https://RocketX.exchange, aby poprawić
+interoperacyjności ze wszystkimi innymi wiodącymi sieciami, aby zwiększyć masową adopcję sieci.
+Dzięki wsparciu Casper Network na RocketX, użytkownicy będą mogli wymieniać ze wszystkich wiodących sieci, które wspieramy, takich jak
+wspieramy, takich jak BTC, ETH, Cosmos, Tron, Solana itp. do $CSPR w sieci Casper.
 <!--lang:uk--] 
-Децентралізована біржова інфраструктура Helix поєднує некастодіальні розрахунки в мережі з позамережевим механізмом узгодження з низькою затримкою за допомогою книги замовлень. Це дозволяє нам надавати інституційний рівень, ліквідність і низьке прослизання для торгівлі в світі DeFi. Завдяки використанню технології ECDSA ми можемо інтегрувати будь-який протокол, що підтримує підписи ECDSA, такі як Bitcoin, Ethereum, Casper тощо.
-Конкретним випадком використання Casper є інтеграція з ринком Metacask (або будь-яким іншим ринком на Casper, який бажає інтегрувати платежі). Там, де ринки Helix дозволять безпосередньо купувати Casks за інші криптовалюти, виступаючи в ролі платіжного процесора - платежі C2C.
+RocketX - це універсальна платформа для безперешкодного переказу цифрових активів між 200+ блокчейнами, такими як
+Btc, Eth, Solana, Cosmos, тощо за допомогою єдиного UI/API.
+Ми спрощуємо доступ до ліквідності на суму понад $100 млрд, об'єднуючи 300+ DEXS та всі провідні CEX.
+Ми допомагаємо користувачам порівнювати ціни та отримувати найкращі ставки при кожному внутрішньому та міжланцюговому свопі.
+
+Гранти для розробників, отримані від:
+Polygon Chain
+Aptos Chain
+TENET Mainnet
+Microvision Chain
+
+Ми в RocketX будемо працювати над підтримкою мережі Casper Network на https://RocketX.exchange, щоб поліпшити
+сумісність з усіма іншими провідними мережами, щоб сприяти масовому впровадженню мережі.
+Завдяки підтримці Casper Network на RocketX, користувачі зможуть обмінюватися з усіма провідними мережами, які ми підтримуємо, такими як
+підтримуваних нами, таких як BTC, ETH, Cosmos, Tron, Solana тощо, на $CSPR в Casper Network
 [!--lang:*-->  
