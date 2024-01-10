@@ -17,7 +17,7 @@ Casper-PM: "https://github.com/Marjan-sha",
 Project-GitHub-Repo: "",
 ---
 <!--lang:en--> 
-EquityBrix is a Fractional (Blockchain-integrated) Real Estate Investment Platform. It’s a
+EquityBrix  is a Fractional (Blockchain-integrated) Real Estate Investment Platform. It’s a
 platform for Fractional Real Estate Investing, Capital Fundraising, as well as Investment & Partner Management.
 EquityBrix goal is to build the world’s largest and most vibrant fractional real estate investment marketplace.
 The platform cost-effectively fractionalizes real estate assets; issues, transfers and manages fractional ownership; records investments and payments transactions on Blockchain. Enabling Sponsors (aka, real estate developers and commercial property owners) to list fractional real estate investment offerings on the EquityBrix Marketplace, as
