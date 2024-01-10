@@ -1,60 +1,52 @@
 ---
-Grant-Number: "010",
-Name: "Ramp Network",
+Grant-Number: "023",
+Name: "CSRP.click integration on Scansper",
 Service-Provider: "",
-Status: "In Review",
+Status: "In Progress",
 Grant-Link: "",
-Website: "https://ramp.network/",
-Grant-Size: "Medium",
+Website: "https://scansper.com/",
+Grant-Size: "Small",
 Total-Milestones: "2",
-Current-Milestone: "M2",
-M1: "16.08.2023","In Review",
-M2: "30.08.2023","In Review",
-Twitter: "https://twitter.com/RampNetwork",
+Current-Milestone: "M1",
+M1: "20.12.2023","In Review",
+M2: "15.01.2024","In Progress",
+Twitter: "",
 Public-Project-Chat: "",
 Casper-PM: "https://github.com/Marjan-sha",
 Project-GitHub-Repo: "",
 ---
 <!--lang:en--> 
-We provide a powerful fiat <> crypto toolkit that enables anyone - from established brands to blockchain pioneers - to easily onboard their next million users into web3.
-Ramp is a global financial technology company building solutions that connect the crypto economy with today’s financial infrastructure.
-Since 2018, we’ve been building and improving our core on-ramp and off-ramp products to take web3 mainstream in a secure and compliant way.
-With offices in the UK, US, and Poland, Ramp employs more than 160 people from all over the globe.
-Leveraging the years of collective fintech experience of our team, we’re working together with a network of market-leading strategic partners, backers, and advocacy organizations to bring about meaningful change.
+Scansper is a blockchain explorer, statistics and insights platform for the Casper network. The project aims to address the current limitations in accessing and understanding Casper network data, providing stakeholders with clear and comprehensive information. By building a robust backend system for data indexing and transformation, coupled with a user-friendly frontend interface, Scansper will empower Casper users to make informed decisions. 
+Scansper is  actually used by more than 100 users every day. With the release of CSPR.click, we want to give the possibility to our users to directly interact with the casper blockchain from Scansper. Which means being able to transfer tokens, stake, un-stake, buy on-ramp CSPR with the CSPR.click solution.
+This will also display information about the connected user, such as token balance, last transactions, etc.
+
+
+
 
 <!--lang:es--] 
-Proporcionamos un potente conjunto de herramientas fiat <> crypto que permite a cualquiera -desde marcas establecidas hasta pioneros de blockchain- incorporar fácilmente a su próximo millón de usuarios a web3.
-Ramp es una compañía global de tecnología financiera que construye soluciones que conectan la criptoeconomía con la infraestructura financiera actual.
-Desde 2018, hemos estado construyendo y mejorando nuestros productos centrales on-ramp y off-ramp para llevar web3 a la corriente principal de una manera segura y compatible.
-Con oficinas en el Reino Unido, Estados Unidos y Polonia, Ramp emplea a más de 160 personas de todo el mundo.
-Aprovechando los años de experiencia colectiva en tecnología financiera de nuestro equipo, estamos trabajando junto con una red de socios estratégicos líderes en el mercado, patrocinadores y organizaciones de defensa para lograr un cambio significativo.
+Scansper es un explorador de blockchain y una plataforma de estadísticas e información para la red Casper. El proyecto tiene como objetivo abordar las limitaciones actuales en el acceso y la comprensión de los datos de la red Casper, proporcionando a las partes interesadas información clara y completa. Mediante la construcción de un sistema backend robusto para la indexación y transformación de datos, junto con una interfaz frontend fácil de usar, Scansper permitirá a los usuarios de Casper tomar decisiones informadas. 
+Scansper es utilizado actualmente por más de 100 usuarios cada día. Con el lanzamiento de CSPR.click, queremos dar la posibilidad a nuestros usuarios de interactuar directamente con la blockchain de Casper desde Scansper. Lo que significa poder transferir tokens, apostar, des-apostar, comprar en rampa CSPR con la solución CSPR.click.
+Esto también mostrará información sobre el usuario conectado, como el saldo de tokens, las últimas transacciones, etc.
+
 
 <!--lang:de--] 
-Wir bieten ein leistungsstarkes Fiat <> Krypto-Toolkit, mit dem jeder - von etablierten Marken bis hin zu Blockchain-Pionieren - ganz einfach die nächste Million Nutzer in web3 einbinden kann.
-Ramp ist ein globales Finanztechnologieunternehmen, das Lösungen entwickelt, die die Kryptowirtschaft mit der heutigen Finanzinfrastruktur verbinden.
-Seit 2018 haben wir unsere Kernprodukte On-Ramp und Off-Ramp entwickelt und verbessert, um web3 auf sichere und konforme Weise in den Mainstream zu bringen.
-Mit Niederlassungen in Großbritannien, den USA und Polen beschäftigt Ramp mehr als 160 Mitarbeiter aus der ganzen Welt.
-Wir nutzen die jahrelange kollektive Fintech-Erfahrung unseres Teams und arbeiten mit einem Netzwerk von marktführenden strategischen Partnern, Geldgebern und Interessenvertretungen zusammen, um sinnvolle Veränderungen herbeizuführen.
+Scansper ist eine Blockchain-Explorer-, Statistik- und Erkenntnisplattform für das Casper-Netzwerk. Das Projekt zielt darauf ab, die derzeitigen Beschränkungen beim Zugriff auf die Daten des Casper-Netzwerks und deren Verständnis zu beseitigen und den Beteiligten klare und umfassende Informationen zur Verfügung zu stellen. Durch den Aufbau eines robusten Backend-Systems für die Datenindizierung und -umwandlung, gekoppelt mit einer benutzerfreundlichen Frontend-Schnittstelle, wird Scansper Casper-Nutzer in die Lage versetzen, fundierte Entscheidungen zu treffen. 
+Scansper wird derzeit täglich von mehr als 100 Nutzern verwendet. Mit der Veröffentlichung von CSPR.click wollen wir unseren Nutzern die Möglichkeit geben, direkt von Scansper aus mit der Casper-Blockchain zu interagieren. Das bedeutet, dass sie mit der CSPR.click-Lösung Token transferieren, Einsätze tätigen, Einsätze aufheben und CSPR kaufen können.
+Dabei werden auch Informationen über den angeschlossenen Nutzer angezeigt, wie z.B. Token-Guthaben, letzte Transaktionen, etc.
 
 <!--lang:fr--] 
-Nous fournissons une puissante boîte à outils fiat <> crypto qui permet à quiconque - des marques établies aux pionniers de la blockchain - d'embarquer facilement leur prochain million d'utilisateurs dans le web3.
-Ramp est une société de technologie financière mondiale qui construit des solutions qui connectent l'économie crypto à l'infrastructure financière d'aujourd'hui.
-Depuis 2018, nous construisons et améliorons nos produits de base on-ramp et off-ramp pour généraliser web3 de manière sécurisée et conforme.
-Avec des bureaux au Royaume-Uni, aux États-Unis et en Pologne, Ramp emploie plus de 160 personnes du monde entier.
-Tirant parti des années d'expérience collective de notre équipe dans le domaine de la fintech, nous collaborons avec un réseau de partenaires stratégiques, de bailleurs de fonds et d'organisations de défense des droits, leaders sur le marché, afin d'apporter des changements significatifs.
+Scansper est une plateforme d'exploration, de statistiques et d'informations sur la blockchain pour le réseau Casper. Le projet vise à remédier aux limites actuelles de l'accès et de la compréhension des données du réseau Casper, en fournissant aux parties prenantes des informations claires et complètes. En construisant un système dorsal robuste pour l'indexation et la transformation des données, associé à une interface frontale conviviale, Scansper permettra aux utilisateurs de Casper de prendre des décisions éclairées. 
+Scansper est actuellement utilisé par plus de 100 utilisateurs chaque jour. Avec la sortie de CSPR.click, nous voulons donner la possibilité à nos utilisateurs d'interagir directement avec la blockchain Casper à partir de Scansper. Cela signifie qu'ils pourront transférer des tokens, miser, dé-miser, acheter des CSPR avec la solution CSPR.click.
+Cette solution affichera également des informations sur l'utilisateur connecté, telles que le solde des jetons, les dernières transactions, etc.
 
 <!--lang:pl--] 
-Zapewniamy potężny zestaw narzędzi fiat <> crypto, który umożliwia każdemu - od uznanych marek po pionierów blockchain - łatwe wprowadzenie kolejnego miliona użytkowników do web3.
-Ramp to globalna firma zajmująca się technologiami finansowymi, która tworzy rozwiązania łączące gospodarkę kryptowalutową z dzisiejszą infrastrukturą finansową.
-Od 2018 roku budujemy i ulepszamy nasze podstawowe produkty on-ramp i off-ramp, aby wprowadzić web3 do głównego nurtu w bezpieczny i zgodny z przepisami sposób.
-Z biurami w Wielkiej Brytanii, Stanach Zjednoczonych i Polsce, Ramp zatrudnia ponad 160 osób z całego świata.
-Wykorzystując wieloletnie doświadczenie naszego zespołu w branży fintech, współpracujemy z siecią wiodących na rynku partnerów strategicznych, sponsorów i organizacji wspierających, aby wprowadzić znaczące zmiany.
+Scansper to eksplorator blockchain, platforma statystyk i spostrzeżeń dla sieci Casper. Projekt ma na celu zaradzenie obecnym ograniczeniom w dostępie i zrozumieniu danych sieci Casper, zapewniając zainteresowanym stronom jasne i wyczerpujące informacje. Budując solidny system backendowy do indeksowania i transformacji danych, w połączeniu z przyjaznym dla użytkownika interfejsem frontendowym, Scansper umożliwi użytkownikom Casper podejmowanie świadomych decyzji. 
+Scansper jest używany przez ponad 100 użytkowników każdego dnia. Wraz z wydaniem CSPR.click, chcemy dać naszym użytkownikom możliwość bezpośredniej interakcji z blockchainem Casper z poziomu Scansper. Oznacza to możliwość przesyłania tokenów, stakowania, un-stakowania, kupowania CSPR on-ramp za pomocą rozwiązania CSPR.click.
+Wyświetli to również informacje o podłączonym użytkowniku, takie jak saldo tokenów, ostatnie transakcje itp.
 
 <!--lang:uk--] 
-Ми надаємо потужний криптоінструментарій, який дозволяє будь-кому - від відомих брендів до піонерів блокчейну - легко підключити наступний мільйон користувачів до web3.
-Ramp - це глобальна компанія, що займається фінансовими технологіями та створює рішення, які пов'язують криптоекономіку з сучасною фінансовою інфраструктурою.
-З 2018 року ми створюємо та вдосконалюємо наші основні продукти, щоб зробити web3 мейнстрімом безпечним та відповідним вимогам.
-В офісах Ramp, розташованих у Великобританії, США та Польщі, працює понад 160 співробітників з усього світу.
-Використовуючи багаторічний колективний фінтех-досвід нашої команди, ми працюємо разом з мережею провідних стратегічних партнерів, спонсорів та адвокаційних організацій, щоб досягти значущих змін.
+Scansper - це платформа для дослідження блокчейну, статистики та аналітики мережі Каспер. Проект спрямований на усунення поточних обмежень у доступі та розумінні даних мережі Casper, надаючи зацікавленим сторонам чітку та вичерпну інформацію. Завдяки створенню надійної внутрішньої системи для індексування та перетворення даних у поєднанні зі зручним інтерфейсом, Scansper надасть користувачам Casper можливість приймати обґрунтовані рішення. 
+Наразі Scansper використовують понад 100 користувачів щодня. З випуском CSPR.click ми хочемо дати можливість нашим користувачам безпосередньо взаємодіяти з блокчейном Casper через Scansper. Це означає можливість переказувати токени, вкладати, знімати стейки, купувати CSPR на рампі за допомогою рішення CSPR.click.
+При цьому також буде відображатися інформація про підключеного користувача, така як баланс токенів, останні транзакції тощо.
 
 [!--lang:*-->  
