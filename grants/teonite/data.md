@@ -1,6 +1,6 @@
 ---
 Grant-Number: "N/A",
-Name: "Smart Contract Source Code Verification Service",
+Name: "Teonite",
 Service-Provider: "",
 Status: "In progress",
 Grant-Link: "",

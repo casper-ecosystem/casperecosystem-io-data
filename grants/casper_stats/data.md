@@ -14,7 +14,7 @@ M3: "01.06.2024","In Progress"
 M4: "01.09.2024","In Progress"
 Twitter: "https://twitter.com/grindytech",
 Public-Project-Chat: "",
-Casper-PM: "Nicolas Zollner",
+Casper-PM: "https://github.com/NicolasZoellner",
 Project-GitHub-Repo: "",
 ---
 <!--lang:en--> 
