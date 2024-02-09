@@ -2,7 +2,7 @@
 Grant-Number: "024",
 Name: "Era Guardian",
 Service-Provider: "",
-Status: "Complete",
+Status: "Completed",
 Grant-Link: "",
 Website: "https://eraguardian.com/",
 Grant-Size: "Small",
