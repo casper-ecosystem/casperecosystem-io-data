@@ -1,7 +1,7 @@
 ---
-Name: "Casper Live",
+Name: "CSPR Live",
 Website: "https://cspr.live/",
-Twitter: "https://twitter.com/theRealMAKEllc",
+Twitter: "https://twitter.com/csprlive",
 Architecture: "User & Access Layer",
 Segment: "Infrastructure",
 Category: "Infrastructure",
