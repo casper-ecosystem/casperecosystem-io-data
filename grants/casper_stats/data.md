@@ -8,7 +8,7 @@ Website: "https://casperstats.io/",
 Grant-Size: "Small",
 Total-Milestones: "4",
 Current-Milestone: "M1",
-M1: "01.01.2024","Complete",
+M1: "01.01.2024","Completed",
 M2: "01.03.2024","In Progress",
 M3: "01.06.2024","In Progress"
 M4: "01.09.2024","In Progress"
