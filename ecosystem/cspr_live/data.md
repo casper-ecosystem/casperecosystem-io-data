@@ -1,5 +1,5 @@
 ---
-Name: "CSPR Live",
+Name: "CSPR.live",
 Website: "https://cspr.live/",
 Twitter: "https://twitter.com/csprlive",
 Architecture: "User & Access Layer",
