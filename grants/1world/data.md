@@ -2,7 +2,7 @@
 Grant-Number: "N/A",
 Name: "1World Swiss Decentralized NFT distribution",
 Service-Provider: "",
-Status: "In progress",
+Status: "Cancelled",
 Grant-Link: "",
 Website: "",
 Grant-Size: "Medium",
