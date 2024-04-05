@@ -13,7 +13,7 @@ M2: "05.03.2024","Not Started",
 M3: "06.04.2024","Not Started",
 Twitter: "https://twitter.com/metahorseunity",
 Public-Project-Chat: "",
-Casper-PM: "https://github.com/Marjan-sha",
+Casper-PM: "https://github.com/devendran-m",
 Project-GitHub-Repo: "",
 ---
 <!--lang:en--> 
