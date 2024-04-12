@@ -1,6 +1,6 @@
 ---
 Grant-Number: "N/A",
-Name: "Layer 3.0 - Trace Tech",
+Name: "Layers 3.0 - Trace Tech",
 Service-Provider: "",
 Status: "In progress",
 Grant-Link: "",
