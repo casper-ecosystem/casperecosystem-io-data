@@ -2,7 +2,7 @@
 Grant-Number: "719",
 Name: "GBM Auctions",
 Service-Provider: "",
-Status: "Complete",
+Status: "Completed",
 Grant-Link: "",
 Website: "",
 Grant-Size: "Medium",
