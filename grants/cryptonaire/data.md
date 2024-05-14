@@ -2,7 +2,7 @@
 Grant-Number: "",
 Name: "Cryptonaire",
 Service-Provider: "",
-Status: "In progress",
+Status: "Canceled",
 Grant-Link: "",
 Website: "",
 Grant-Size: "Small",

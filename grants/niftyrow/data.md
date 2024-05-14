@@ -2,7 +2,7 @@
 Grant-Number: "751",
 Name: "NiftyRow",
 Service-Provider: "",
-Status: "Accepted",
+Status: "Canceled",
 Grant-Link: "https://portal.devxdao.com/app/proposal/751",
 Website: "",
 Grant-Size: "Small",

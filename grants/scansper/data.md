@@ -2,7 +2,7 @@
 Grant-Number: "023",
 Name: "CSRP.click integration on Scansper",
 Service-Provider: "",
-Status: "In Progress",
+Status: "Completed",
 Grant-Link: "",
 Website: "https://scansper.com/",
 Grant-Size: "Small",
@@ -12,7 +12,7 @@ M1: "20.12.2023","Complete",
 M2: "15.01.2024","Complete",
 Twitter: "",
 Public-Project-Chat: "",
-Casper-PM: "https://github.com/Marjan-sha",
+Casper-PM: "https://github.com/devendran-m",
 Project-GitHub-Repo: "",
 ---
 <!--lang:en--> 
