@@ -2,7 +2,7 @@
 Grant-Number: "748",
 Name: "ProFuelTrace",
 Service-Provider: "",
-Status: "Canceled",
+Status: "Cancelled",
 Grant-Link: "https://portal.devxdao.com/app/proposal/748",
 Website: "",
 Grant-Size: "Large",

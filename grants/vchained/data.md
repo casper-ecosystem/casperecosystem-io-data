@@ -2,7 +2,7 @@
 Grant-Number: "009",
 Name: "Vchained",
 Service-Provider: "",
-Status: "Canceled",
+Status: "Cancelled",
 Grant-Link: "",
 Website: "https://vchained.com/",
 Grant-Size: "Small",
