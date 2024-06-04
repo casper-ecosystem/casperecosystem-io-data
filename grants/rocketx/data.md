@@ -2,7 +2,7 @@
 Grant-Number: "021",
 Name: "Power Interoperability of Casper Network via RocketX",
 Service-Provider: "",
-Status: "Complete",
+Status: "Completed",
 Grant-Link: "",
 Website: "https://www.rocketx.exchange/",
 Grant-Size: "Small",

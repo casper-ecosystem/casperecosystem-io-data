@@ -2,7 +2,7 @@
 Grant-Number: "718",
 Name: "Casper Shops",
 Service-Provider: "",
-Status: "Complete",
+Status: "Completed",
 Grant-Link: "https://portal.devxdao.com/app/proposal/718",
 Website: "",
 Grant-Size: "Medium",

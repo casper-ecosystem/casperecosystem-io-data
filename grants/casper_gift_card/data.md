@@ -2,7 +2,7 @@
 Grant-Number: "793",
 Name: "Casper Gift Card Dapp",
 Service-Provider: "Verso",
-Status: "Complete",
+Status: "Completed",
 Grant-Link: "",
 Website: "",
 Grant-Size: "Medium",
