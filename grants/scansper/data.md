@@ -2,7 +2,7 @@
 Grant-Number: "023",
 Name: "CSRP.click integration on Scansper",
 Service-Provider: "",
-Status: "Complete",
+Status: "Completed",
 Grant-Link: "",
 Website: "https://scansper.com/",
 Grant-Size: "Small",

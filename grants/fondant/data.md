@@ -2,7 +2,7 @@
 Grant-Number: "793",
 Name: "Fondant",
 Service-Provider: "BlockBites",
-Status: "Complete",
+Status: "Completed",
 Grant-Link: "https://portal.devxdao.com/app/proposal/793",
 Website: "https://fondant.dev/",
 Grant-Size: "Medium",

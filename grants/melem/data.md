@@ -2,7 +2,7 @@
 Grant-Number: "776",
 Name: "Melem",
 Service-Provider: "",
-Status: "Complete",
+Status: "Completed",
 Grant-Link: "https://portal.devxdao.com/app/proposal/776",
 Website: "https://melem.io/",
 Grant-Size: "Small",

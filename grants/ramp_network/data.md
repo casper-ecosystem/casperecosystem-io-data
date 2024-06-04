@@ -2,7 +2,7 @@
 Grant-Number: "010",
 Name: "Ramp Network",
 Service-Provider: "",
-Status: "Complete",
+Status: "Completed",
 Grant-Link: "",
 Website: "https://ramp.network/",
 Grant-Size: "Medium",
