@@ -2,7 +2,7 @@
 Grant-Number: "",
 Name: "Dspense Wallet Telegram Bot",
 Service-Provider: "",
-Status: "Completed",
+Status: "Complete",
 Grant-Link: "",
 Website: "https://wallet.dspense.com",
 Grant-Size: "Medium",
