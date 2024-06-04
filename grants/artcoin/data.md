@@ -2,7 +2,7 @@
 Grant-Number: "",
 Name: "ArtCoin",
 Service-Provider: "",
-Status: "Completed",
+Status: "Complete",
 Grant-Link: "",
 Website: "",
 Grant-Size: "Small",
