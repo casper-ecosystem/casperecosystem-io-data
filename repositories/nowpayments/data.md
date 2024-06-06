@@ -1,6 +1,6 @@
 --- 
 Name: "NOWPayments", 
-Website: "https://github.com/NowPaymentsIO", 
+Website: "https://github.com/NowPaymentsIO/nowpayments-api-js", 
 Projects: "ChangeNOW",
 --- 
 <!--lang:en--> 

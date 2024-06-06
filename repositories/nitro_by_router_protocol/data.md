@@ -1,6 +1,6 @@
 --- 
 Name: "Nitro (by Router Protocol)", 
-Website: "https://github.com/router-protocol", 
+Website: "https://github.com/router-protocol/router-chain-docs", 
 Projects: "Nitro (by Router Protocol)",
 --- 
 <!--lang:en--> 
