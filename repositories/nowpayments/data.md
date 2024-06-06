@@ -1,7 +1,7 @@
 --- 
-Name: "NOWPayments_", 
-Website: "https://github.com/https://github.com/NowPaymentsIO", 
-Projects: "NOWPayments",
+Name: "NOWPayments", 
+Website: "https://github.com/NowPaymentsIO", 
+Projects: "ChangeNOW",
 --- 
 <!--lang:en--> 
 
