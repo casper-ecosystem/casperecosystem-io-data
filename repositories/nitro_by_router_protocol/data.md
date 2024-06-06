@@ -1,5 +1,5 @@
 --- 
-Name: "Nitro (by Router Protocol)_github", 
+Name: "Nitro (by Router Protocol)", 
 Website: "https://github.com/router-protocol", 
 Projects: "Nitro (by Router Protocol)",
 --- 

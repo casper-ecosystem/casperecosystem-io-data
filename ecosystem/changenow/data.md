@@ -1,5 +1,5 @@
 --- 
-Name: "ChangeNow", 
+Name: "ChangeNOW", 
 Website: "https://changenow.io/", 
 Twitter: "https://twitter.com/ChangeNOW_io", 
 Architecture: "User & Access Layer",
