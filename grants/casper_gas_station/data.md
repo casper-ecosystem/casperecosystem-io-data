@@ -12,8 +12,8 @@ M1: "07.01.2024","Complete",
 M2: "04.02.2024","Complete",
 M3: "11.02.2024","Complete",
 M4: "10.03.2024","Complete",
-M5: "31.03.2024","In progress",
-M6: "14.04.2024","In progress",
+M5: "31.03.2024","Complete",
+M6: "14.04.2024","Complete",
 Twitter: "",
 Public-Project-Chat: "",
 Casper-PM: "https://github.com/Adrian-Wrona",
@@ -27,7 +27,7 @@ A BIG question pops up while we distribute the transaction fee to participants: 
 any on-chain solution that we can allow Casper User to do on-chain actions without any
 gas fee?”
 That’s the reason why we came up with a gasless solution: Casper Gas Station (CGS).
-We strongly believe that with Casper Gas Station, Social Login from cspr.click or usewallet
+We strongly believe that with Casper Gas Station, Social Login from cspr.click or use wallet
 can help Casper Ecosystem create the next wave of mass adoption.
 
 
