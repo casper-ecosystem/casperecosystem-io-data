@@ -1,6 +1,6 @@
 ---
 Grant-Number: "30",
-Name: "Tubblyr",
+Name: "Tubbly",
 Service-Provider: "",
 Status: "In Progress",
 Grant-Link: "",
