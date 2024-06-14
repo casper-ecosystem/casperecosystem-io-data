@@ -27,7 +27,7 @@ A BIG question pops up while we distribute the transaction fee to participants: 
 any on-chain solution that we can allow Casper User to do on-chain actions without any
 gas fee?”
 That’s the reason why we came up with a gasless solution: Casper Gas Station (CGS).
-We strongly believe that with Casper Gas Station, Social Login from cspr.click or use wallet
+We strongly believe that with Casper Gas Station, Social Login from cspr.click or usewallet
 can help Casper Ecosystem create the next wave of mass adoption.
 
 
