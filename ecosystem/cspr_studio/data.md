@@ -20,7 +20,7 @@ Highlights:
 - Trade NFTs with friends.
 - Use any image, video or audio file to get started.
   
-[Join us on Telegram](https://t.me/CSPRhub) for the latest news about CSPR.market and other apps from the CSPR Product Suite - powered by [MAKE](https://makegroup.io/).
+[Join us on Telegram](https://t.me/CSPRhub) for the latest news about CSPR.studio and other apps from the CSPR Product Suite - powered by [MAKE](https://makegroup.io/).
 
 <!--lang:es--] 
 <!--lang:de--] 
