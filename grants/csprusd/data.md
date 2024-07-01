@@ -2,7 +2,7 @@
 Grant-Number: "026",
 Name: "CSPRUSD",
 Service-Provider: "",
-Status: "In Progress",
+Status: "Complete",
 Grant-Link: "",
 Website: "https://sarsonfunds.com/",
 Grant-Size: "Large",
