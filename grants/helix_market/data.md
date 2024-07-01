@@ -2,7 +2,7 @@
 Grant-Number: "011",
 Name: "Helix Markets",
 Service-Provider: "",
-Status: "In progress",
+Status: "Complete",
 Grant-Link: "",
 Website: "https://www.helixmarkets.io/",
 Grant-Size: "Medium",
