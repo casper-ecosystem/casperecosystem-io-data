@@ -1,19 +1,19 @@
 --- 
-Name: "MAKE Services", 
+Name: "MAKE", 
 Website: "https://makegroup.io/",
 OrgSize: "",
-Specializations: "",
+Specializations: "JavaScript, Go, Rust",
 POC: "",
 Projects: ".net_sdk,cspr_live,casper_wallet,cspr_market,go_sdk,cspr_studio,cspr_cloud,cspr_click",
 Address: "",
 Twitter: "https://x.com/WeAreTeamMAKE",
 Discord: "",
-Telegram: "",
-Architecture: "Partners",
-Segment: "Software House",
+Telegram: "https://t.me/CSPRhub",
+Architecture: "Partners, Infrastructure, L1 Operators",
+Segment: "Software House, Validators",
 Category: "",
 Application-Category: "",
-Tags: "Software House",
+Tags: "Software House, Infrastructure, Validators",
 --- 
 <!--lang:en--> 
 MAKE is a dynamic, service oriented consultancy firm that is your one-stop-shop for your product development, technical and strategic business needs.
