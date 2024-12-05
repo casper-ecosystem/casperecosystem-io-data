@@ -13,8 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Run API Update
+      - name: Run API Update for STG env
         run: curl --header "secret:${{ secrets.SECRET }}" https://api.stg.casperecosystem.io/api/update
 
-      - name: Run Refresh Gatsby
-        run: curl -X POST https://webhook.gatsbyjs.com/hooks/data_source/publish/0331c161-911e-4c3a-944b-${{ secrets.GATSBY_ID }}
+      - name: Run API Update for PROD env
+        run: curl --header "secret:${{ secrets.SECRET }}" https://api.casperecosystem.io/api/update
